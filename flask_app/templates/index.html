@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+    <form action="/predict" method="post">
+      <input autocomplete="off" autofocus name="id" placeholder="Id" type="text">
+      <input type="submit">
+    </form>
+
+{% endblock %}
