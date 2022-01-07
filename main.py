@@ -71,8 +71,8 @@ def process_cpu(CPU):
 def process_ram(RAM):
     total_ram = []
     for ram in RAM:
-        ram = ram.split("GB")[0].strip().replace('*', ' x ')
-        if ' x ' in re.sub(r"[^A-Z()]", "", ram):
+        ram = ram.split("GB")[0].strip().replace('*', ' x ').replace("G", "")
+        if ' x ' in ram:
             temp = ram.split(' x ')
             total_ram.append(int(temp[0]) * int(temp[1]))
         else:
@@ -84,16 +84,16 @@ def process_disk(DISK):
     type_disk = []
     capacity_disk = []
     for disk in DISK:
-        disk = disk.upper()
-        disk = re.sub("M.2 ", "", disk)
-        if 'SSD' in disk:
+        temp_disk = str(disk).upper()
+        temp_disk = re.sub("M.2 ", "", temp_disk)
+        if 'SSD' in str(disk):
             type_disk.append(1)
         else:
             type_disk.append(0)
         try:
-            capacity_disk.append(int(disk.strip().split('GB')[0]))
+            capacity_disk.append(int(temp_disk.strip().split('GB')[0]))
         except:
-            capacity_disk.append(int(disk.strip().split('TB')[0]) * 1024)
+            capacity_disk.append(int(temp_disk.strip().split('TB')[0]) * 1024)
     return type_disk, capacity_disk
 
 
@@ -124,7 +124,14 @@ if __name__ == '__main__':
     # data = data.loc[data["RAM"] != 'LPDDR4x 4266Mhz on board']
     # data = data.dropna()
     # data.to_csv("1.csv", encoding="utf8", sep="\t", index=False)
+    data_display = pd.read_csv('display.csv', encoding='utf8', sep='\t')
+    size_dis = [x for x in data_display['Size']]
+    relu_dis = [x for x in data_display['Relu']]
+    type_gpu = [x for x in data_display["Type GPU"]]
+    vram = [x for x in data_display['VRAM']]
+
     data = pd.read_csv('1.csv', encoding='utf8', sep='\t')
+
     Name = [x.lower() for x in data['Name']]
     CPU = [x for x in data['CPU']]
     RAM = [x for x in data['RAM']]
@@ -134,19 +141,13 @@ if __name__ == '__main__':
     Old_Price = [x for x in data['Old Price']]
     New_Price = [x for x in data['New Price']]
 
-    # add product value
     producer = [process_name(x).split(" ")[1] for x in Name]
-    # process cpu
-    # g = []
-    # for gpu in GPU:
-    #
-    #     g.append(re.sub(r"[^a-zA-Z0-9\s]", "", gpu.strip().upper()))
-    # for x in set(g):
-    #     print(x)
-    a = []
-    for display in DISPLAY:
-        rep = ['"', '-inch', 'inch']
-        for r in rep:
-            display = re.sub(r, " inch", display.strip())
-        a.append(display.split(" ")[0])
-    print(set(a))
+    total_price = process_prices(Old_Price, New_Price)
+    type_disk, capacity_disk = process_disk(DISK)
+    total_ram = process_ram(RAM)
+    totol_cpu = process_cpu(CPU)
+
+    df = pd.DataFrame({'Name': Name, 'Producer': producer, 'CPU': totol_cpu, 'Ram': total_ram, 'Type disk': type_disk,
+                       'Capacity': capacity_disk, 'Type GPU': type_gpu, 'VRAM': vram, "Size Display": size_dis,
+                       "Relu Display": relu_dis, 'Price': total_price})
+    df.to_csv('final_data.csv', encoding='utf8', sep='\t', index=False)
