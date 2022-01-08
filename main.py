@@ -2,27 +2,6 @@ import pandas as pd
 import re
 
 
-def concat_df(files):
-    list_data_frame = []
-    for file in files:
-        d = pd.read_csv(file, encoding="utf8", sep="\t")
-        try:
-            d = d.drop(labels=["Producer"], axis=1)
-        except:
-            pass
-        list_data_frame.append(d)
-    df = pd.concat(list_data_frame).drop_duplicates()
-    df.to_csv("result1.csv", encoding="utf8", sep="\t", index=False)
-
-
-def price(text):
-    try:
-        text = str(text).replace(".", "").replace("₫", "").replace(r'\s+', "")
-        return int(text)
-    except:
-        return "None"
-
-
 def no_accent_vietnamese(s):
     s = re.sub('[áàảãạăắằẳẵặâấầẩẫậ]', 'a', s)
     s = re.sub('[ÁÀẢÃẠĂẮẰẲẴẶÂẤẦẨẪẬ]', 'A', s)
@@ -72,6 +51,10 @@ def process_ram(RAM):
     total_ram = []
     for ram in RAM:
         ram = ram.split("GB")[0].strip().replace('*', ' x ').replace("G", "")
+        try:
+            ram =  ram.replace("G(G", "")
+        except:
+            pass
         if ' x ' in ram:
             temp = ram.split(' x ')
             total_ram.append(int(temp[0]) * int(temp[1]))
@@ -112,18 +95,20 @@ def process_prices(Old_Price, New_Price):
     return res
 
 
+def convert_disk(type_disk, capacity_disk):
+    SSD = []
+    HDD = []
+    for i in range(0, len(type_disk)):
+        if type_disk[i] == 1:
+            SSD.append(capacity_disk[i])
+            HDD.append(0)
+        else:
+            HDD.append(capacity_disk[i])
+            SSD.append(0)
+    return SSD, HDD
+
+
 if __name__ == '__main__':
-    # noi 3 dataframe
-    # files = ['Product_An_Phat.csv', 'Product_HNCom.csv', 'Product_Phong_Vu.csv']
-    # concat_df(files)
-    # doc dataframe, loai bo gia tri loi
-    # data = pd.read_csv('result1.csv', encoding='utf8', sep='\t')
-    # for item in ["CPU", 'DISK', 'RAM', 'DISPLAY']:
-    #     data = data.loc[data[item] != 'None']
-    # data = data.loc[data["CPU"] != 'Microsoft SQ 2']
-    # data = data.loc[data["RAM"] != 'LPDDR4x 4266Mhz on board']
-    # data = data.dropna()
-    # data.to_csv("1.csv", encoding="utf8", sep="\t", index=False)
     data_display = pd.read_csv('display.csv', encoding='utf8', sep='\t')
     size_dis = [x for x in data_display['Size']]
     relu_dis = [x for x in data_display['Relu']]
@@ -147,7 +132,7 @@ if __name__ == '__main__':
     total_ram = process_ram(RAM)
     totol_cpu = process_cpu(CPU)
 
-    df = pd.DataFrame({'Name': Name, 'Producer': producer, 'CPU': totol_cpu, 'Ram': total_ram, 'Type disk': type_disk,
-                       'Capacity': capacity_disk, 'Type GPU': type_gpu, 'VRAM': vram, "Size Display": size_dis,
-                       "Relu Display": relu_dis, 'Price': total_price})
-    df.to_csv('final_data.csv', encoding='utf8', sep='\t', index=False)
+    # df = pd.DataFrame({'Name': Name, 'Producer': producer, 'CPU': totol_cpu, 'Ram': total_ram, 'Type disk': type_disk,
+    #                    'Capacity': capacity_disk, 'Type GPU': type_gpu, 'VRAM': vram, "Size Display": size_dis,
+    #                    "Relu Display": relu_dis, 'Price': total_price})
+    # df.to_csv('final_data.csv', encoding='utf8', sep='\t', index=False)
