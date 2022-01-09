@@ -1,9 +1,9 @@
 {% extends "layout.html" %}
 
 {% block body %}
-
+    <h1>Laptop Prices</h1>
     <form action="/predict" method="post">
-      <input autocomplete="off" autofocus name="msg" placeholder="Default message displayed" type="text">
+      <input autocomplete="off" autofocus name="name" placeholder="Enter your name" type="text">
       <select name="ram">
           <option disable selected>RAM</option>
           {% for ram in RAM %}

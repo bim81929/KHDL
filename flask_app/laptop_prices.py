@@ -78,4 +78,6 @@ class LaptopPrices(object):
 
     def predict(self, ram, v_ram, display, resolution, ssd, hdd):
         i = np.array([[ram, v_ram, display, find_x_resolution(resolution), find_y_resolution(resolution), ssd, hdd]])
-        return self.model.predict(i)
+        price = int(self.model.predict(i))
+        price = int(price/1000) * 1000
+        return price

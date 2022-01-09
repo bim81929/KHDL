@@ -34,6 +34,10 @@ def index():
 
 @app.route("/predict", methods=["POST"])
 def predict():
+    name = request.form.get("name", "undefined")
+    if name == "":
+        name = "Brown Fox"
+
     app.logger.warning(request.form.get("ram"))
     ram = request.form.get("ram", "undefined")
 
@@ -53,5 +57,6 @@ def predict():
     hdd = request.form.get("hdd", "undefined")
 
     price = model.predict(ram, v_ram, display, resolution, ssd, hdd)
-    return render_template("predictions.html", msg="hello, world!", price=price)
+    return render_template("predictions.html", name=name, ram=ram, v_ram=v_ram, display=display, resolution=resolution, ssd=ssd,
+                           hdd=hdd, price=price)
 
