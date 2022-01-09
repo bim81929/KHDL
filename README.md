@@ -1,11 +1,18 @@
-# KHDL
-## API Phong Vũ
-### method: GET
-### API: https://phongvu.vn/api/product/<product_id>
-Cách lấy Product_ID:
-VD: [Here](https://phongvu.vn/may-tinh-xach-tay-laptop-acer-spin-3-sp314-51-51le-nx-gzrsv-002-xam-s1810659.html?sku=1810659)
-với python:
-url = 'https://phongvu.vn/may-tinh-xach-tay-laptop-acer-spin-3-sp314-51-51le-nx-gzrsv-002-xam-s1810659.html?sku=1810659'
-product_id = url.split('sku=')[-1]
+# Hướng dẫn thực hiện project KHDL
+## Thành viên
+- Nguyễn Đức Nguyên 20183600
+- Trần Đức Thọ 20183634
+- Trần Văn Điệp
+- ...
 
-==> API: https://phongvu.vn/api/product/1810659
+## Tổng quan về đề tài
+- Tên đề tài: Dự đoán giá laptop bằng ....
+- Nguồn dữ liệu: An Phát, Hà Nội Computer, Phong Vũ
+
+## Hướng dẫn chạy project
+
+- Crawl dữ liệu gồm tên, url các sản phẩm laptop: thực hiện chạy file Crawl_for_KHDL.ipynb
+- Crawl chi tiết các trường thông tin yêu cầu từ 3 file Crawl_Search_*.csv: Crawl_details_laptop.ipynb và file hanoipc.py
+- Tạo dataframe từ 3 file Product_An_Phat.csv, Product_HNCom.csv, Product_Phong_Vu.csv: chạy file concat.py ==> tạo được file 1.csv
+- Xử lý data: chạy file main.py ==> thu được file final_data.csv là dữ liệu qua bước tiền xử lý
+
