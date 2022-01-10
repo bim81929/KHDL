@@ -175,10 +175,10 @@ laptop hp 14s-dq2550tu 470d5pa (core i7-1165g7 | 8gb | 512gb | intel iris xe | 1
 laptop asus rog flow x13 gv301qc-k6052t (ryzen 9-5900hs | 16gb | 512gb | rtx 3050 4gb | 13.4 inch fhd | win 10 | đen)	asus	R9	16	1	512	1	4	13.4	1920x1200	39390000
 laptop asus rog zephyrus g14 ga401qc-hz100t (ryzen 9-5900hs | 16gb | 512gb | rtx 3050 4gb | 14.0 inch fhd | win 10 | trắng)	asus	R9	16	1	512	1	4	14.0	1920x1080	38490000
 laptop msi gp76 leopard 11ug 280vn (core i7-11800h | 16gb | 1tb ssd | rtx 3070 8gb | 17.3 inch fhd | win 10 | đen)	msi	I7	16	1	1024	1	8	17.3	1920x1080	52240000
-laptop fujitsu lifebook u7411 (core i5-1135g7 | 8gb | 512gb | intel iris |14.0 inch fhd | freedos | đen)	fujitsu	I5	8	0	512	0	0	14.0	1920x1080	25745000
+laptop fujitsu lifebook u7411 (core i5-1135g7 | 8gb | 512gb | intel iris |14.0 inch fhd | freedos | đen)	fujitsu	I5	8	0	512	0	0	14.0	1920x1080	51490000
 laptop fujitsu lifebook u7311 (core i5-1135g7 | 8gb | 512gb | intel® iris | 13.3 inch fhd | freedos | đen)	fujitsu	I5	8	0	512	0	0	13.3	1920x1080	0
 laptop dell vostro 5410 v4i5214w (core i5-11320h | 8gb | 512gb | intel iris xe | 14.0 inch fhd | win 10 | office | xám)	dell	I5	8	1	512	0	0	14.0	1920x1080	23490000
-laptop apple macbook pro 2020 mwp52sa/a (space grey)	apple	I5	16	1	1024	0	0	13.3	2560x1600	11495000
+laptop apple macbook pro 2020 mwp52sa/a (space grey)	apple	I5	16	1	1024	0	0	13.3	2560x1600	22990000
 laptop asus vivobook a515ea-l11171t (core™ i5-1135g7 | 8gb | 512gb | intel® iris® xe | 15.6-inch fhd | win 10 | đen)	asus	I5	8	1	512	0	0	15.6	1920x1080	20390000
 laptop asus tuf gaming f15 fx506hcb-hn139t (core i5-11400h | 8gb | 512gb | rtx™ 3050 4gb | 15.6 inch fhd | win 10 | eclipse gray)	asus	I5	8	1	512	1	4	15.6	1920x1080	25840000
 laptop asus vivobook pro 14 oled m3401qa-km040t (ryzen™ 7-5800h | 8gb | 512gb | amd radeon | 14.0-inch wqxga+ | win 10 | xanh)	asus	R7	8	1	512	0	0	14.0	2880x1800	22940000
@@ -194,14 +194,14 @@ laptop msi modern 14 b11sbu 668vn (core™ i5-1155g7 | 8gb | 512gb | mx450 2gb |
 laptop acer gaming predator triton 500 se pt516-51s-71rw nh.qaksv.001 (core™ i7-11800h | 16gb | 1tb ssd | rtx 3080 8gb | 16 inch wqxga | win 10 | steel gray)	acer	I7	16	1	1024	1	8	16	2560x1600	78995000
 laptop dell vostro 5510 70253901 (core™ i5-11300h | 8gb | 512gb | intel iris xe | 15.6-inch fhd | win 10)	dell	I5	8	0	512	0	0	15.6	1920x1080	22890000
 laptop dell vostro 5410 v4i5014w (core i5-11300h | 8gb | 512gb | intel iris xe | 14.0 inch fhd | win 10 | xám)	dell	I5	8	1	512	0	0	14.0	1920x1080	23190000
-laptop msi modern 15 a10mu-667vn (core™ i5-10210u | 8gb | 512gb | intel uhd | 15.6 inch fhd | win 10 | xám)	msi	I5	8	1	512	0	0	15.6	1920x1080	11395000
+laptop msi modern 15 a10mu-667vn (core™ i5-10210u | 8gb | 512gb | intel uhd | 15.6 inch fhd | win 10 | xám)	msi	I5	8	1	512	0	0	15.6	1920x1080	22790000
 laptop acer travelmate b3 tmb311-31-p49d nx.vnfsv.005 (pentium® silver n5030 | 4gb | 256gb | intel®uhd | 11.6 inch hd | win 11 | đen)	acer	N5030	4	1	256	0	0	11.6	1366x768	11490000
 laptop acer travelmate b3 tmb311-31-c2hb nx.vnfsv.006 (celeron® n4020 | 4gb | 128gb | intel®uhd | 11.6 inch hd | win 11 | đen)	acer	N4020	4	1	128	0	0	11.6	1366x768	10490000
 laptop lg gram 2021 17z90p-g.ah78a5 (core i7-1165g7 | 16gb | 1tb ssd | intel iris xe | 17.0 inch wqxga | win 10 | đen)	lg	I7	6	1	1024	0	0	17.0	2560x1600	53240000
 laptop acer predator helios 500 ph517-52-96vd (core i9-11980hk | 64gb/2tb ssd raid 0 | 2tb hdd | rtx 3080 16gb | win11 | 3s1 onsite | 2k 165hz)	acer	I9	64	1	2048	0	0	17.3	2560x1440	0
 laptop acer predator helios 500 ph517-52-99mm (core i9-11980hk | 64gb/2tb ssd raid 0 | 2tb hdd | rtx 3080 16gb | win11 | 3s1 onsite | 4k 120hz miniled)	acer	I9	64	1	2048	0	0	17.3	2560x1440	0
 laptop asus tuf dash f15 fx516pc-hn011t (core i5-11300h | 8gb | 512gb | rtx 3050 4gb | 15.6 inch fhd | win 10 | moonlight white)	asus	I5	8	0	512	1	4	15.6	1920x1080	25840000
-laptop dell latitude 9420 70261781 (core i5-1145g7 | 16gb | 512gb | intel iris xe | 14 inch fhd+ | windows 10 pro | xám)	dell	I5	16	1	512	0	0	14	1920x1200	12845000
+laptop dell latitude 9420 70261781 (core i5-1145g7 | 16gb | 512gb | intel iris xe | 14 inch fhd+ | windows 10 pro | xám)	dell	I5	16	1	512	0	0	14	1920x1200	25690000
 laptop dell latitude 9420 70261782 (core i7-1185g7 | 16gb | 512gb | intel iris xe | 14 inch fhd+ | windows 10 pro | xám)	dell	I7	16	1	512	0	0	14	1920x1200	0
 laptop msi modern 14 b10mw 646vn (core i5-10210u | 8gb | 512gb | intel® uhd | 14 inch fhd | win 10 | xám)	msi	I5	8	1	512	0	0	14	1920x1080	17590000
 laptop acer gaming nitro 5 an515-55-55e3 nh.q7qsv.002	acer	I5	16	1	512	1	6	15.6	1920x1080	29490000
@@ -237,7 +237,7 @@ laptop asus zenbook duo 14 ux482ea-ka081t (core i5-1135g7 | 8gb | 512gb | intel 
 laptop asus zenbook duo 14 ux482ea-ka111t (core i7-1165g7 | 16gb | 1tb ssd | intel iris xe | 14.0 inch fhd | cảm ứng | screenpad™ plus | win 10 | celestial blue)	asus	I7	16	1	1024	0	0	14.0	1920x1080	39940000
 laptop asus vivobook m513ua-l1240t (ryzen 7-5700u | 8gb | 512gb | amd radeon | 15.6 inch fhd | win 10 | bạc)	asus	R7	8	1	512	0	0	15.6	1920x1080	20890000
 laptop asus vivobook m513ua-l1221t (ryzen 5-5500u | 8gb | 512gb | amd radeon | 15.6 inch fhd-oled | win 10 | bạc)	asus	R5	8	1	512	0	0	15.6	1920x1080	18890000
-laptop dell inspiron 5410 n4i5547w (core i5-1155g7 | 8gb | 512gb | mx350 2gb | 14.0 inch fhd | cảm ứng | win 10 | office | bạc)	dell	I5	8	1	512	1	2	14.0	1920x1080	9395000
+laptop dell inspiron 5410 n4i5547w (core i5-1155g7 | 8gb | 512gb | mx350 2gb | 14.0 inch fhd | cảm ứng | win 10 | office | bạc)	dell	I5	8	1	512	1	2	14.0	1920x1080	18790000
 laptop dell inspiron 5515 n5r75700u104w (ryzen™ 7-4700u | 8gb | 512gb | amd redeon | 15.6 inch fhd | win 10 | office | bạc)	dell	R7	8	1	512	0	0	15.6	1920x1080	0
 laptop dell inspiron 5510 n5i5510w (core i5-11300h | 8gb | 512gb | intel® iris® xe | 15.6 inch fhd | win 10 | office | bạc)	dell	I5	8	1	512	0	0	15.6	1920x1080	0
 laptop msi modern 14 b11mo 682vn (core i3-1115g4 | 8gb | 256gb | intel uhd | 14 inch fhd | win 10 | blue stone)	msi	I3	8	1	256	0	0	14	1920x1080	15190000
@@ -246,14 +246,14 @@ laptop asus vivobook x515ea-bq1006t (core i3-1115g4 | 4gb | 512gb | intel uhd | 
 laptop apple macbook air 13.3 inch z127000de bạc (apple m1)	apple	M1	16	1	256	0	0	13.3	2560x1600	32990000
 laptop apple macbook air 13.3 inch z124000de xám (apple m1)	apple	M1	16	1	256	0	0	13.3	2560x1600	32990000
 laptop acer nitro 5 an515-56-51n4 nh.qbzsv.002 (core i5-11300h | 8gb | 512gb | gtx 1650 4gb | 15.6 inch fhd | win 10 | đen)	acer	I5	8	1	512	1	4	15.6	1920x1080	24490000
-laptop msi gf63 thin 11uc (core™ i5-11400h | 8gb | 512gb | rtx 3050 4gb | 15.6 inch fhd | win 10 | đen)	msi	I5	8	1	512	0	0	13.3	2560x1600	11995000
+laptop msi gf63 thin 11uc (core™ i5-11400h | 8gb | 512gb | rtx 3050 4gb | 15.6 inch fhd | win 10 | đen)	msi	I5	8	1	512	0	0	13.3	2560x1600	23990000
 laptop msi gf63 thin 11uc (core™ i7-11800h | 8gb | 512gb | rtx 3050 4gb | 15.6 inch fhd | win 10 | đen)	msi	I7	8	1	512	0	0	13.3	2560x1600	0
 laptop dell vostro 5510 70266006 (core™ i5-11320h | 8gb | 512gb | intel iris xe | 15.6-inch fhd | win 10 | office | xám)	dell	I5	8	0	512	0	0	15.6	1920x1080	23490000
 laptop asus zenbook flip 13 ux363ea-hp130t	asus	I5	8	1	512	0	0	13.3	1920x1080	28490000
 laptop asus vivobook x415ea-eb548t (core i5-1135g7 | 4gb | 512gb | intel iris xe | 14.0-inch fhd | win 10 | slate grey)	asus	I5	4	1	512	0	0	14.0	1920x1080	17140000
 laptop asus rog flow x13 gv301qc-k6029t (ryzen™ 9-5980hs | 32gb | 1tb ssd | rtx 3050 4gb | 13.4 inch wuxga | cảm ứng | win 10 | đen)	asus	R9	32	1	1024	1	4	13.4	1920x1200	79940000
 laptop asus x415ea-ek675t (core i3-1115g4 | 4gb | 256gb | intel uhd | 14.0-inch fhd | win 10 | bạc)	asus	I3	4	1	256	0	0	14.0	1920x1080	13740000
-laptop acer aspire 3 a315-58-55f3 nx.addsv.00a (core™ i5-1135g7 | 8gb | 512gb | intel iris xe | 15.6 inch fhd | win 10 | bạc)	acer	I5	8	1	512	0	0	15.6	1920x1080	6745000
+laptop acer aspire 3 a315-58-55f3 nx.addsv.00a (core™ i5-1135g7 | 8gb | 512gb | intel iris xe | 15.6 inch fhd | win 10 | bạc)	acer	I5	8	1	512	0	0	15.6	1920x1080	13490000
 laptop lenovo thinkbook 14 g2 itl 20vd0049vn (i5/ram 8gb/512gb ssd/intel iris/14.0 inch/no os/xám)	lenovo	I5	8	1	512	0	0	14.0	1920x1080	19590000
 laptop lenovo thinkpad x1 carbon gen 9 20xw009uvn (core™ i7-1165g7 | 8gb | 512gb | intel iris xe | 14 inch wuxga | win 10 | đen)	lenovo	I7	8	1	512	0	0	14	1920x1200	48840000
 laptop asus tuf gaming a17 fa706ih-hx180t (ryzen 5-4600h | 8gb | 512gb | gtx 1650 4gb | 17.3 inch fhd | win 10 | gun metal)	asus	R5	8	1	512	1	4	17.3	1920x1080	20440000
@@ -303,11 +303,11 @@ laptop hp 15s-fq2558tu 46m26pa (core i7-1165g7 | 8gb | 512gb | intel iris xe | 1
 laptop hp 240 g8 3d0e8pa (core i7-1165g7 | 8gb | 512gb | intel iris xe | 14.0 inch fhd | win 10 | bạc)	hp	I7	8	1	512	0	0	14.0	1920x1080	22640000
 laptop hp 240 g8 d3h7pa (core i5-1135g7 | 8gb | 512gb | intel iris xe | 14.0 inch fhd | win 10 | bạc)	hp	I5	8	1	512	0	0	14.0	1920x1080	18690000
 laptop hp 240 g8 3d3h6pa (core i5-1135g7 | 8gb | 256gb | intel iris xe | 14.0 inch fhd | win 10 | bạc)	hp	I5	8	1	256	0	0	14.0	1920x1080	17840000
-laptop hp 240 g8 3d0e3pa (core i5-1135g7 | 4gb | 256gb | intel iris xe | 14.0 inch fhd | freedos | bạc)	hp	I5	4	1	256	0	0	14.0	1920x1080	8845000
+laptop hp 240 g8 3d0e3pa (core i5-1135g7 | 4gb | 256gb | intel iris xe | 14.0 inch fhd | freedos | bạc)	hp	I5	4	1	256	0	0	14.0	1920x1080	17690000
 laptop dell inspiron 7501 n5i5012w	dell	I5	8	1	512	1	4	15.6	1920x1080	29790000
-laptop dell vostro 3400 70235020	dell	I3	8	1	256	0	0	14	1920x1080	14295000
+laptop dell vostro 3400 70235020	dell	I3	8	1	256	0	0	14	1920x1080	28590000
 laptop hp 240 g8 3d0e1pa (core i5-1135g7 | 4gb | 256gb | intel iris xe | 14.0 inch fhd | win 10 | bạc)	hp	I5	4	1	256	0	0	14.0	1920x1080	17040000
-laptop lenovo thinkbook 14s yoga itl 20we004fvn (core i7-1165g7 | 16gb | 512gb | intel iris xe | 14 inch fhd | cảm ứng | win 10 | xám)	lenovo	I7	16	1	512	0	0	14	1920x1080	8395000
+laptop lenovo thinkbook 14s yoga itl 20we004fvn (core i7-1165g7 | 16gb | 512gb | intel iris xe | 14 inch fhd | cảm ứng | win 10 | xám)	lenovo	I7	16	1	512	0	0	14	1920x1080	16790000
 laptop asus vivobook s533ea-bn293t (core i5-1135g7 | 8gb | 512gb | intel iris xe | 15.6 inch fhd | win 10 | đen)	asus	I5	8	1	512	0	0	15.6	1920x1080	20490000
 laptop asus vivobook s15 s533eq-bn338t (core i5-1135g7 | 8gb | 512gb | mx350 2gb | 15.6 inch fhd | win 10 | đen)	asus	I5	8	1	512	1	2	15.6	1920x1080	22690000
 laptop asus vivobook s15 s533eq-bq011t	asus	I5	8	1	512	1	2	15.6	1920x1080	21540000
@@ -337,10 +337,10 @@ laptop hp 340s g7 240q3pa	hp	I3	4	1	256	0	0	14.0	1366x768	12840000
 laptop asus vivobook a515ea-bq1530t (core™ i3-1115g4 | 4gb | 512gb | intel® uhd | 15.6-inch fhd | win 10 | bạc)	asus	I3	4	1	512	0	0	15.6	1920x1080	15490000
 laptop hp probook 445 g8 3g0r5pa (ryzen™ 5-5600u | 8gb | 512gb | amd radeon™ | 14 inch fhd | win 10 | bạc)	hp	R5	8	1	512	0	0	14	1920x1080	21190000
 laptop asus vivobook x415ea-eb640t (core i5-1135g7 | 4gb | 512gb | intel iris xe | 14.0-inch fhd | win 10 | bạc)	asus	I5	4	1	512	0	0	14.0	1920x1080	17140000
-laptop hp 15s-fq2029tu 2q5y7pa	hp	I7	8	1	512	0	0	15.6	1366x768	8495000
+laptop hp 15s-fq2029tu 2q5y7pa	hp	I7	8	1	512	0	0	15.6	1366x768	16990000
 laptop hp probook 440 g8 2h0r5pa (core i3-1115g4/ ram 4gb/ 256gb ssd/ intel uhd/ 14.0 inch hd/ win 10/ bạc)	hp	I3	4	1	256	0	0	14.0	1920x1080	14490000
 laptop hp elitebook x360 1040 g8 3g1h4pa (core i7-1165g7 | 16gb | 512gb | intel iris xe | 14.0 inch fhd touch | win 10 pro | bạc)	hp	I7	16	1	512	0	0	14.0	1920x1080	48490000
-laptop hp pavilion 15-eg0070tu 2l9h3pa vàng	hp	I5	8	1	512	0	0	15.6	1920x1080	23995000
+laptop hp pavilion 15-eg0070tu 2l9h3pa vàng	hp	I5	8	1	512	0	0	15.6	1920x1080	47990000
 laptop hp pavilion 15-eg0007tx 2d9d5pa (core i7-1165g7 | 8gb | 512gb | mx450 2gb | 15.6 inch fhd | win 10 | vàng)	hp	I7	8	1	512	1	2	15.6	1920x1080	0
 laptop hp probook 430 g8 348d6pa (core i5-1135g7 | 8gb | 512gb | intel iris xe | 13.3 inch fhd | freedos | bạc)	hp	I5	8	1	512	0	0	13.3	1920x1080	20390000
 laptop hp probook 430 g8 2z6e8pa (core i3-1115g4/ram 4gb/256gb ssd/ intel uhd/ 13.3 inch hd/ dos/ bạc)	hp	I3	4	1	256	0	0	13.3	1366x768	13840000
@@ -462,7 +462,7 @@ laptop asus x415ma-bv451t (celeron n4020 | 4gb | 256gb | intel uhd | 14.0-inch h
 laptop gaming asus rog strix g17 g713qm-k4113t (ryzen 7-5800h | 16gb | 512gb | rtx 3060 6gb | 17.3 inch wqhd | win 10)	gaming	R7	16	1	512	1	6	17.3	2560x1440	41940000
 laptop dell vostro 5502 nt0x01	dell	I5	8	1	512	1	2	15.6	1920x1080	23290000
 laptop gigabyte g5 kc 5s11130sh (core i5-10500h | 16gb | 512gb | rtx 3060 6gb | 15.6 inch fhd | win 10 | đen)	gigabyte	I5	16	1	512	1	6	15.6	1920x1080144Hz	31490000
-laptop dell g15 ryzen edition 5515 70258049 (ryzen 7-5800h | 8gb | 512gb | rtx 3050 4gb | 15.6 inch fhd | win 10 | xám)	dell	R7	8	1	512	1	4	15.6	1920x1080	14995000
+laptop dell g15 ryzen edition 5515 70258049 (ryzen 7-5800h | 8gb | 512gb | rtx 3050 4gb | 15.6 inch fhd | win 10 | xám)	dell	R7	8	1	512	1	4	15.6	1920x1080	29990000
 laptop dell g15 ryzen edition 5515 70258051 (ryzen 7-5800h | 16gb | 512gb | rtx 3050ti 4gb | 15.6 inch fhd | win 10 | xám)	dell	R7	16	1	512	1	4	15.6	1920x1080	0
 laptop dell inspiron 3501 70253898 (core i7-1165g7 | 8gb | 512gb | mx330 2gb | 15.6 inch fhd | win 10 + office | đen)	dell	I7	8	0	512	1	2	15.6	1920x1080	0
 laptop acer nitro 5 eagle an515-57-74rd nh.qd8sv.001 (core i7-11800h | 8gb | 512gb | rtx 3050 4gb | 15.6 inch fhd | win 10 | đen)	acer	I7	8	1	512	1	4	15.6	1920x1080	27790000
@@ -483,12 +483,12 @@ laptop dell inspiron 3501 70234074 (core i5-1135g7 | 8gb | 512gb | mx330 2gb | 1
 laptop asus vivobook m513ua-ej033t (ryzen 7-5700u | 8gb | 512gb | amd radeon | 15.6 inch fhd | win 10 | bạc)	asus	R7	8	1	512	0	0	15.6	1920x1080	19140000
 laptop asus d415da-ek852t (ryzen 3-3250u | 4gb | 512gb | amd radeon | 14.0 inch fhd | win 10 | bạc)	asus	R3	4	0	512	0	0	14	1920x1080	12440000
 laptop asus d415da-ek482t (ryzen 3-3250u | 4gb | 512gb | amd radeon | 14.0 inch fhd | win 10 | bạc)	asus	R3	4	0	512	0	0	14	1920x1080	12440000
-laptop asus e210ma-gj001t (celeron n4020 | 4gb | 128gb | intel uhd | 11.6 inch hd | win 10 | peacock blue)	asus	N4020	4	1	128	0	0	11.6	1366x768	6145000
+laptop asus e210ma-gj001t (celeron n4020 | 4gb | 128gb | intel uhd | 11.6 inch hd | win 10 | peacock blue)	asus	N4020	4	1	128	0	0	11.6	1366x768	12290000
 laptop asus e210ka-gj031t (celeron n4500 | 4gb | 128gb | intel uhd | 11.6 inch hd | win 10 | peacock blue)	asus	N4500	4	1	128	0	0	11.6	1920x1080	0
 laptop hp zbook firefly 14 g8 mobile workstation 1a2f1av-i5-8g-ddr4-3200 (core i5-1135g7 | 8gb | 512gb | intel iris xe | 14 inch fhd | win 10 pro | bạc)	hp	I5	8	1	512	0	0	14	1920x1080400 Nits	33590000
 laptop asus vivobook s433ea-am885t (core i7-1165g7 | 16gb | 512gb | intel iris xe | 14.0 inch fhd | win 10 | đen)	asus	I7	16	1	512	0	0	14.0	1920x1080	23890000
 laptop asus zenbook flip 13 ux363ea-hp163t (core i7-1165g7 | 16gb | 512gb | intel® iris | 13.3 inch fhd oled | win 10 | xám)	asus	I7	16	1	512	0	0	13.3	1920x1080	33790000
-laptop dell inspiron 7400 n4i5134w (core i5-1135g7 | 16gb | 512gb | mx350 2gb | 14.5 inch ips | win 10 | bạc)	dell	I5	16	0	512	1	2	14.5	2560x1600	16795000
+laptop dell inspiron 7400 n4i5134w (core i5-1135g7 | 16gb | 512gb | mx350 2gb | 14.5 inch ips | win 10 | bạc)	dell	I5	16	0	512	1	2	14.5	2560x1600	33590000
 laptop gaming asus rog strix g17 g713qm-k4183t (ryzen 9-5900hx | 16gb | 512gb | rtx 3060 6gb | 17.3 inch wqhd | win 10)	gaming	R9	16	1	512	1	6	17.3	2560x1440	43940000
 laptop asus vivobook flip 14 tm420ua-ec022t (ryzen 5-5500u | 8gb | 512gb | amd radeon | 14.0 inch fhd | win 10 | đen)	asus	R5	4	0	512	0	0	14.0	1920x1080	17040000
 laptop asus vivobook flip 14 tm420ia-ec031t	asus	R5	8	1	512	0	0	14.0	1920x1080	17490000
@@ -499,20 +499,20 @@ laptop gigabyte aero 15 oled yd 73s1624gh (core i7-11800h | 16gb | 1tb ssd | rtx
 laptop gigabyte aorus 15p xd 73s1224gh (core i7-11800h | 16gb | 1tb ssd | rtx 3070 8gb | 15.6 inch fhd | win 10 | đen)	gigabyte	I7	16	1	1024	1	8	15.6	1920x1080240Hz	53944500
 laptop gigabyte g5 md 51s1223sh (core i5-11400h | 16gb | 512gb | rtx 3050ti 4gb | 15.6 inch fhd | win 10 | đen)	gigabyte	I5	16	1	512	1	4	15.6	1920x1080144Hz	31240000
 laptop gigabyte aero 15 oled xd 73s1624gh (core i7-11800h | 16gb | 1tb ssd | rtx 3070 8gb | 15.6 inch uhd | win 10 | đen)	gigabyte	I7	16	1	1024	1	8	15.6	3840x2160VESA DisplayHDR 400 True Black	59940000
-laptop msi modern 14 b11sb 626vn (core i5-1135g7 | 8gb | 512gb | mx450 2gb | 14 inch fhd | win 10)	msi	I5	8	1	512	1	2	14	1920x1080	29945000
+laptop msi modern 14 b11sb 626vn (core i5-1135g7 | 8gb | 512gb | mx450 2gb | 14 inch fhd | win 10)	msi	I5	8	1	512	1	2	14	1920x1080	59890000
 laptop msi modern 14 b11sb 625vn (core i5-1135g7 | 8gb | 512gb | mx450 2gb | 14 inch fhd | win 10)	msi	I5	8	1	512	1	2	14	1920x1080	0
 laptop dell g5 15 5505 70252801 (ryzen 5-4600h | 16gb | 512gb | rx 5600m 6gb | 15.6 inch fhd | win 10 | bạc)	dell	R5	16	0	512	0	0	13.3	2560x1600	0
 laptop fujitsu lifebook e5411/a (core i7-1165g7 | 8gb | 256gb | intel iris | 14.0 inch hd | freedos | đen)	fujitsu	I7	8	0	256	0	0	14.0	1366x768	27490000
-laptop hp 240 g8 3d0e7pa (core i7-1165g7 | 8gb | 256gb | intel iris xe | 14.0 inch fhd | win 10 | bạc)	hp	I7	8	1	256	0	0	14.0	1920x1080	13495000
+laptop hp 240 g8 3d0e7pa (core i7-1165g7 | 8gb | 256gb | intel iris xe | 14.0 inch fhd | win 10 | bạc)	hp	I7	8	1	256	0	0	14.0	1920x1080	26990000
 laptop asus expertbook b9400cea-kc0558t (core i5-1135g7 | 8gb | 512gb | intel iris xe | 14.0 inch fhd | win 10 | đen)	asus	I5	8	1	512	0	0	14.0	1920x1080	28840000
 laptop apple macbook air 13.3 inch z12b000br vàng (apple m1)	apple	M1	16	1	512	0	0	13.3	2560x1600	37940000
 laptop apple macbook air 13.3 inch z128000br bạc (apple m1)	apple	M1	16	1	512	0	0	13.3	2560x1600	37940000
-laptop dell latitude 7320 42lt732002 (core i7-1185g7 | 8gb | 256gb | intel iris xe | 13.3 inch fhd | ubuntu | đen)	dell	I7	8	1	256	0	0	13.3	1920x1080	15245000
+laptop dell latitude 7320 42lt732002 (core i7-1185g7 | 8gb | 256gb | intel iris xe | 13.3 inch fhd | ubuntu | đen)	dell	I7	8	1	256	0	0	13.3	1920x1080	30490000
 laptop acer swift 3x sf314-510g-57mr nx.a10sv.004	acer	I5	8	1	512	0	0	14.0	1920x1080	22490000
 laptop dell gaming g7 7500 g7500b - đen	dell	I7	8	1	512	1	6	15.6	1920x1080	38290000
 laptop dell gaming g5 15 5500 70225486	dell	I7	8	0	512	1	6	15.6	1920x1080	33890000
 laptop dell gaming g5 15 5500 70225485	dell	I7	8	0	512	1	6	15.6	1920x1080	30340000
-laptop dell gaming g5 5500 g5500b (core i7-10750h | 16gb | 512gb | rtx 2070 8gb | 15.6 inch fhd | win 10 | đen)	dell	I7	16	1	512	1	8	15.6	1920x1080WVA	14695000
+laptop dell gaming g5 5500 g5500b (core i7-10750h | 16gb | 512gb | rtx 2070 8gb | 15.6 inch fhd | win 10 | đen)	dell	I7	16	1	512	1	8	15.6	1920x1080WVA	29390000
 laptop dell gaming g3 3500 g3500bw (core i7-10750h | 16gb | 512gb | gtx 1660ti 6gb | 15.6 inch fhd | win 10 | trắng)	dell	I7	16	1	512	1	6	15.6	1920x1080WVA	0
 laptop dell gaming g3 3500 g3500d (core i7-10750h | 16gb | 512gb | gtx 1650ti 4gb | 15.6 inch fhd | win 10 | đen)	dell	I7	16	1	512	1	4	15.6	1920x1080WVA	0
 laptop msi delta 15 a5efk (ryzen 7-5800h | 16gb | 512gb | rx 6700m 10gb | 15.6 inch fhd | win 10 | xám)	msi	R7	16	1	512	0	0	15.6	1920x1080	0
@@ -540,7 +540,7 @@ laptop avita liber v14l-pw ns14a8vnr571-pwb pearl white (core i7-10510u | 8gb | 
 laptop hp probook 440 g8 342h3pa (core i5-1135g7/ram 8gb/ 512gb ssd/ intel iris/ 14.0 inch fhd/ freedos/ bạc)	hp	I5	8	1	512	0	0	14.0	1920x1080	20690000
 laptop hp probook 455 g8 3g0u6pa (ryzen™ 5-5600u | 4gb | 256gb | amd radeon | 15.6 inch fhd | win 10 | bạc)	hp	R5	4	1	256	0	0	15.6	1920x1080	17990000
 laptop asus vivobook flip 14 tp470ea-ec123t (core i3-1115g4 | 8gb | 512gb | intel® iris | 14.0 inch fhd | win 10 | bạc)	asus	I3	8	0	512	0	0	14.0	1920x1080	16944500
-laptop hp elitebook x360 1030 g8 3g1c4pa (core i7-1165g7 | 16gb | 512gb | intel iris xe | 13.3 inch fhd | cảm ứng | win 10 | bạc)	hp	I7	16	1	512	0	0	13.3	1920x1080	8445000
+laptop hp elitebook x360 1030 g8 3g1c4pa (core i7-1165g7 | 16gb | 512gb | intel iris xe | 13.3 inch fhd | cảm ứng | win 10 | bạc)	hp	I7	16	1	512	0	0	13.3	1920x1080	16890000
 laptop hp probook 440 g8 2z6j3pa	hp	I5	8	1	256	0	0	14	1366x768	19690000
 laptop vgs imperium 2020 bqc71cbdu6000m3s3	vgs	I7	64	0	2048	1	6	15.6	1920x1080	34695000
 laptop vgs imperium 2020 bqc71cbdu6000m2s2	vgs	I7	32	0	1024	1	6	15.6	1920x1080	45300000
@@ -553,13 +553,13 @@ laptop vgs imperium bqc71aubu6000m1s1	vgs	I7	16	0	512	1	6	15.6	1920x1080	3640000
 laptop vgs imperium bqc71abbu6000m2s2	vgs	I7	16	1	512	1	6	15.6	1920x1080	40800000
 laptop vgs imperium 2020 bqc71cbdu6000m1s1	vgs	I7	16	0	512	1	6	15.6	1920x1080	37600000
 laptop asus rog flow x13 gv301qh-k6054t	asus	R7	16	1	512	1	4	13.4	1080x1920	35195000
-laptop avita liber v14r-sw ns14a8vnw561-swab (ryzen 7-3700u | 8gb | 512gb | radeon rx vega | 14.0 inch fhd | win 10 | trắng)	avita	R7	8	1	512	0	0	14.0	1920x1080	17495000
+laptop avita liber v14r-sw ns14a8vnw561-swab (ryzen 7-3700u | 8gb | 512gb | radeon rx vega | 14.0 inch fhd | win 10 | trắng)	avita	R7	8	1	512	0	0	14.0	1920x1080	34990000
 laptop avita liber v14q-sp ns14a8vnw561-spab (ryzen 7-3700u | 8gb | 512gb | radeon rx vega | 14.0 inch fhd | win 10 | hồng)	avita	R7	8	1	512	0	0	14.0	1920x1080	0
 laptop avita liber v14p-cr ns14a8vnw561-crab (ryzen 7-3700u | 8gb | 512gb | radeon rx vega | 14.0 inch fhd | win 10 | đỏ)	avita	R7	8	1	512	0	0	14.0	1920x1080	0
 laptop avita liber v14o-sl ns14a8vnw561-slab (ryzen 7-3700u | 8gb | 512gb | radeon rx vega | 14.0 inch fhd | win 10 | tím)	avita	R7	8	1	512	0	0	14.0	1920x1080	0
 laptop avita liber v14n-ab ns14a8vnw561-abab (ryzen 7-3700u | 8gb | 512gb | radeon rx vega | 14.0 inch fhd | win 10 | xanh)	avita	R7	8	1	512	0	0	14.0	1920x1080	0
 laptop avita liber v14c-ug ns14a8vnw561-ugab (ryzen 7-3700u | 8gb | 512gb | radeon rx vega | 14.0 inch fhd | win 10 | vàng)	avita	R7	8	1	512	0	0	14.0	1920x1080	0
-laptop asus vivobook d515ua-ej082t (r7-5700u | 8gb | 512gb | amd radeon | 15.6 inch fhd | win 10 | bạc)	asus	R7	8	1	512	0	0	15.6	1920x1080	8995000
+laptop asus vivobook d515ua-ej082t (r7-5700u | 8gb | 512gb | amd radeon | 15.6 inch fhd | win 10 | bạc)	asus	R7	8	1	512	0	0	15.6	1920x1080	17990000
 laptop avita liber v14m-ur ns14a8vnr571-urb urban ruby(core i7-10510u | 8gb | 1tb | intel uhd | 14.0 inch fhd | win 10 | hồng đậm)	avita	I7	8	1	1024	0	0	14.0	1920x1080	21490000
 laptop avita liber v14k-ab ns14a8vnr571-abb angel blue (core i7-10510u | 8gb | 1tb | intel uhd | 14.0 inch fhd | win 10 | blue)	avita	I7	8	1	1024	0	0	14.0	1920x1080	21490000
 laptop avita liber v14d-bp ns14a8vnf561-bpb (core i5-10210u | 8gb | 512gb | intel uhd | 14.0 inch fhd | win 10 | hồng)	avita	I5	8	1	512	0	0	14.0	1920x1080	16890000
@@ -571,14 +571,14 @@ laptop msi ge66 raider 10sfs 474vn	msi	I7	32	1	1024	1	8	15.6	1920x1080	55490000
 laptop fujitsu lifebook e559 l00e559vn00000074	fujitsu	I5	4	1	256	0	0	15.6	1366x768	19594500
 laptop msi stealth 15m a11sdk 060vn	msi	I7	16	1	512	1	6	15.6	1920x1080	33890000
 laptop hp elitebook x360 830 g7 230l5pa	hp	I7	16	1	512	0	0	13.3	1920x1080	41140000
-laptop msi ws66 10tk (core i7-10750h | 32gb | 1tb | rtx 3000 6gb | 15.6 inch fhd | win10 pro | đen)	msi	I7	32	1	1024	1	6	15.6	1920x1080	20345000
+laptop msi ws66 10tk (core i7-10750h | 32gb | 1tb | rtx 3000 6gb | 15.6 inch fhd | win10 pro | đen)	msi	I7	32	1	1024	1	6	15.6	1920x1080	40690000
 laptop msi ws66 10tm (core i9-10980hk | 64gb | 1tb | rtx 5000 16gb | 15.6 inch uhd | win pro | đen)	msi	I9	64	1	1024	1	16	15.6	1920x1080	0
 laptop msi ws66 10tm (core i9-10980hk | 32gb | 1tb | rtx 5000 16gb | 15.6 inch uhd | win pro | đen)	msi	I9	32	1	1024	1	16	15.6	3840x2160	0
 laptop msi wf65 10th (core i7-10750h | 16gb | 256gb ssd + 1tb hdd | p620 4gb | 15.6 inch fhd | win 10 pro | xám)	msi	I7	16	1	256	1	4	15.6	1920x1080	0
 laptop msi wf75 10tk (core i7-10750h | 32gb | 512gb ssd + 1tb hdd | rtx 3000 6gb | 17.3 inch fhd | win 10 pro | xám)	msi	I7	32	1	512	1	6	17.3	1920x1080	0
 laptop msi ws66 10tl (core i7-10875h | 32gb | 1tb | rtx 4000 8gb | 15.6 inch fhd | win10 pro	msi	I7	32	1	1024	1	8	15.6	1920x1080	0
 laptop msi ws75 10tm (intel xeon w-10855m | 32gb | 2tb | rtx 5000 16gb | 17.3 inch uhd | win pro)	msi	W10855M	32	1	2048	1	16	17.3	3840x2160	0
-laptop hp elite dragonfly g2 25w59av (core i7-1165g7 | 16gb | 1tb | intel iris xe | 13.3 inch fhd | win 10 pro | xanh)	hp	I7	16	1	1024	0	0	13.3	1920x1080	25995000
+laptop hp elite dragonfly g2 25w59av (core i7-1165g7 | 16gb | 1tb | intel iris xe | 13.3 inch fhd | win 10 pro | xanh)	hp	I7	16	1	1024	0	0	13.3	1920x1080	51990000
 laptop hp omen 15-ek0079tx 26y69pa	hp	I7	16	1	1024	1	6	15.6	1920x1080	51990000
 laptop hp omen 15-ek0078tx 26y68pa	hp	I7	16	1	1024	1	8	15.6	1920x1080	54240000
 laptop msi ge66 raider 10ug-205vn	msi	I7	16	1	2048	1	8	15.6	1920x1080	60990000
@@ -595,12 +595,12 @@ laptop hp probook 455 g7 1a1a9pa	hp	R5	4	1	256	0	0	15.6	1920x1080	16190000
 laptop hp 340s g7 224l0pa	hp	I3	4	1	512	0	0	14.0	1366x768	11740000
 laptop hp elitebook x360 1030 g7 230p5pa	hp	I7	16	1	512	0	0	13.3	1920x1080	48190000
 laptop hp elitebook x360 1040 g7 230p8pa	hp	I7	16	1	512	0	0	14.0	1920x1080	48190000
-laptop hp elitebook 840 g7 1a1j8pa	hp	I5	8	1	256	0	0	14.0	1920x1080	23695000
+laptop hp elitebook 840 g7 1a1j8pa	hp	I5	8	1	256	0	0	14.0	1920x1080	47390000
 laptop hp elitebook x360 830 g7 230l4pa	hp	I5	8	1	512	0	0	13.3	1920x1080	36690000
 laptop hp probook 450 g8 2h0v8pa	hp	I5	8	1	512	0	0	15.6	1920x1080	19490000
 laptop hp 14s-dq2016tu 2q5w9pa	hp	I5	8	1	512	0	0	14.0	1920x1080	16440000
 laptop hp probook 450 g8 2z6l1pa	hp	I7	8	1	512	0	0	15.6	1920x1080	23340000
-laptop dell inspiron 7400 n4i5206w (core i5-1135g7/ ram 8gb/ 512gb ssd/ mx350 2gb/ 14.5 inch ips qhd/ win 10/ bạc)	dell	I5	8	0	512	1	2	14.5	2560x1600	11345000
+laptop dell inspiron 7400 n4i5206w (core i5-1135g7/ ram 8gb/ 512gb ssd/ mx350 2gb/ 14.5 inch ips qhd/ win 10/ bạc)	dell	I5	8	0	512	1	2	14.5	2560x1600	22690000
 laptop dell xps 15 9500 70221010 (p91f001)	dell	I7	16	0	512	1	4	15.6	3840x2400	59490000
 laptop apple macbook pro 2020 mxk32sa/a (space grey)	apple	I5	8	1	256	0	0	13.3	2560x1600	33990000
 laptop đồ họa conceptd 3 ezel pro cc314-72p-75eg nx.c5ksv.001 (i7 10750h/16gb ram/1tb ssd/quadro™ t1000 4gb/14 inch fhd touch/bút/win10 pro/trắng)	conceptd	I7	16	1	1024	1	4	14	1920x1080	42495000
@@ -618,7 +618,7 @@ laptop asus zenbook ux325ea-kg363t (i5 1135g7/8gb ram/512gb ssd/13.3 fhd/win10/c
 laptop asus gaming  rog flow 13 gv301qc-k6029t (r9 5980hs/32gb ram/1tb ssd/13.4 touch /rtx3050 4gb+rtx 3080 16gb cắm ngoài/win10/bút/túi/đen)	asus	R9	32	1	1024	0	0	13.4	1920x1080	78999000
 laptop lenovo thinkpad x1 gen 9 (20xw0076vn) (i5 1135g7/8gb ram/512gb ssd/14 wuxga/win pro/đen)	lenovo	I5	8	1	512	0	0	14	1920x1080	45549000
 laptop lenovo legion 7 16achg6 (82n60039vn) (r9 5900hx/32gb ram/1tb ssd/16 qwxga 165hz/rtx3080 16g/win/xám)	lenovo	R9	32	1	1024	1	0	16	1920x1080	79899000
-laptop acer gaming predator triton 300 (pt315-53-71dj) (nh.qdssv.001) (i7 11800h/16gb ram/512gb ssd/rtx 3070 8g/15.6 inch qhd 165hz/win10/đen) (2021)	acer	I7	16	1	512	1	0	15.6	1920x1080	24999500
+laptop acer gaming predator triton 300 (pt315-53-71dj) (nh.qdssv.001) (i7 11800h/16gb ram/512gb ssd/rtx 3070 8g/15.6 inch qhd 165hz/win10/đen) (2021)	acer	I7	16	1	512	1	0	15.6	1920x1080	49999000
 laptop dell vostro 5510 (70253901) (i5 11300h/8gb ram/512gb ssd/15.6  inch fhd /win10+office/xám) (2021)	dell	I5	8	1	512	0	0	15.6	1920x1080	22749000
 laptop dell vostro 3400 (70253900) (i5 1135g7/8gb ram/256gb ssd/14.0 inch fhd/win10+office/đen)	dell	I5	8	1	256	0	0	14	1920x1080	19094000
 laptop dell inspiron 3505 (y1n1t5) (r5 3500u 8gb ram/512gb ssd/15.6 inch fhd/win10+office/đen)	dell	R5	8	1	512	0	0	15.6	1920x1080	20739000
@@ -723,18 +723,18 @@ laptop asus vivobook tp470ea-ec027t(i3 1115g4/4gb ram/512gb ssd/14 fhd touch/win
 laptop asus gaming tuf fa706iu-hx406t (r7 4800h/8gb ram/512gb ssd/17.3 fhd 144hz /gtx 1660ti 6gb/win10/xám/balo)	asus	R7	8	1	512	1	6	17.3	1920x1080	28139000
 máy tính xách tay msi gaming gp76 leopard (11ug-280vn) (i7 11800h/16gbram/1tb ssd/rtx3070 8g/17.3 inch fhd 240hz/win 10) (2021)	msi	I7	16	1	1024	0	0	17.3	1920x1080	52739000
 laptop asus gaming rog strix g713qm-k4183t (ryzen 9 5900hx/2*8gb ram/512b ssd/17.3 wqhd 165hz/rtx 3060 6gb/win10/balo/xám)	asus	R9	16	1	512	1	6	17.3	1920x1080	43719000
-laptop msi gaming bravo 15 (b5dd-028vn) (r7-5800h/8gb ram/512gb ssd/rx5500m 4gb/15.6 inch fhd 144hz/win 10/đen) (2021)	msi	R7	8	1	512	0	0	15.6	1920x1080	12449500
-laptop msi gaming bravo 15 (b5dd-027vn) (r5-5600h/8gb ram/512gb ssd/rx5500m 4gb/15.6 inch fhd 144hz/win 10/đen) (2021)	msi	R5	8	1	512	0	0	15.6	1920x1080	10999500
+laptop msi gaming bravo 15 (b5dd-028vn) (r7-5800h/8gb ram/512gb ssd/rx5500m 4gb/15.6 inch fhd 144hz/win 10/đen) (2021)	msi	R7	8	1	512	0	0	15.6	1920x1080	24899000
+laptop msi gaming bravo 15 (b5dd-027vn) (r5-5600h/8gb ram/512gb ssd/rx5500m 4gb/15.6 inch fhd 144hz/win 10/đen) (2021)	msi	R5	8	1	512	0	0	15.6	1920x1080	21999000
 laptop asus zenbook ux425ea-ki429t (i5 1135g7/8gb ram/512gb ssd/14 fhd/win10/xám)	asus	I5	8	1	512	0	0	14	1920x1080	24474000
 laptop dell inspiron 5505 (n5r74700u) (r7 4700u 8gb ram/512gb ssd/15.6 inch fhd/win10/bạc)	dell	R7	8	1	512	0	0	15.6	1920x1080	22569000
 laptop asus gaming tuf fx506hc-hn002t (i5 11400h/8gb ram/512gb ssd/15.6 fhd 144hz/rtx 3050 4gb/win10/xám)	asus	I5	8	1	512	1	4	15.6	1920x1080	25624000
 laptop gigabyte gaming g5 (md-5 51s1123sh) (i5 11400h /16gb ram/512gb ssd/rtx3050ti 4g/15.6 inch fhd 144hz/win 10/đen) (2021)	gigabyte	I5	16	1	512	1	0	15.6	1920x1080	30849000
-laptop gigabyte gaming aorus 15p (yd -73s1224gh) (i7 11800h /16gb ram/1tb ssd/rtx3080 8g/15.6 inch fhd 240hz/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	1024	1	0	15.6	1920x1080	36994500
-laptop gigabyte gaming aero 15 oled (kd-72s1623gh) (i7 11800h /16gb ram/512gb ssd/rtx3060 6g/15.6 inch uhd amoled/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	512	1	0	15.6	1920x1080	24499500
+laptop gigabyte gaming aorus 15p (yd -73s1224gh) (i7 11800h /16gb ram/1tb ssd/rtx3080 8g/15.6 inch fhd 240hz/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	1024	1	0	15.6	1920x1080	73989000
+laptop gigabyte gaming aero 15 oled (kd-72s1623gh) (i7 11800h /16gb ram/512gb ssd/rtx3060 6g/15.6 inch uhd amoled/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	512	1	0	15.6	1920x1080	48999000
 laptop asus gaming rog strix g15 g513qc-hn015t (ryzen 7 5800h/8gb ram/512gb ssd/15.6 fhd 144hz/rtx 3050 4gb/win10/xám)	asus	R7	8	1	512	0	0	15.6	1920x1080	29499000
-laptop msi gaming ge76 raider 11uh (i9 11980hk/64gb ram/ 2tb ssd/rtx3080 16g/17.3 inch uhd 120hz/ win10) (2021)	msi	I9	64	1	2048	1	0	17.3	1920x1080	54494500
+laptop msi gaming ge76 raider 11uh (i9 11980hk/64gb ram/ 2tb ssd/rtx3080 16g/17.3 inch uhd 120hz/ win10) (2021)	msi	I9	64	1	2048	1	0	17.3	1920x1080	108989000
 laptop msi gaming ge66 raider (11uh-211vn) (i7 11800h/32gb ram/2tb ssd/rtx3080 16g/15.6 inch qhd 240hz/win10) (2021)	msi	I7	32	1	2048	1	0	15.6	1920x1080	76999000
-laptop msi gaming ge66 raider (11ug-210vn) (i7 11800h/16gb ram/2tb ssd/rtx3070 8g/15.6 inch fhd 300hz/win10) (2021)	msi	I7	16	1	2048	1	0	15.6	1920x1080	30294500
+laptop msi gaming ge66 raider (11ug-210vn) (i7 11800h/16gb ram/2tb ssd/rtx3070 8g/15.6 inch fhd 300hz/win10) (2021)	msi	I7	16	1	2048	1	0	15.6	1920x1080	60589000
 laptop msi gaming gs66 stealth (11ug-210vn) (i7 11800h 32gb ram/2tb ssd/rtx3070 8g/15.6 inch fhd 300hz/win 10) (2021)	msi	I7	32	1	2048	1	0	15.6	1920x1080	64499000
 laptop msi modern 14 (b5m-014vn) (r5 5500u/8gb ram/512gb ssd/14.0 inch fhd/win10/xám) (2021)	msi	R5	8	1	512	0	0	14	1920x1080	17089000
 laptop msi modern 15 (a5m-048vn) (r5 5500u/8gb ram/512gb ssd/15.6 inch fhd/win10/xám) (2021)	msi	R5	8	1	512	0	0	15.6	1920x1080	18129000
@@ -748,8 +748,8 @@ laptop acer swift 3 sf314-511-56g1 (nx.ablsv.002) (i5-1135g7/16gb ram/512gb ssd/
 laptop asus gaming tuf fx506hm-hn018t (i5 11400h/8gb ram/512gb ssd/15.6 fhd 144hz/rtx 3060 6gb/win10/xám)	asus	I5	8	1	512	1	6	15.6	1920x1080	30154000
 laptop msi gaming gf63 thin (10sc-468vn) (i5 10500h 8gb ram/512gb ssd/gtx1650 max q 4g/15.6 inch fhd 144hz/win10/đen) (2021)	msi	I5	8	1	512	1	0	15.6	1920x1080	21644000
 laptop msi gaming katana gf66 (11uc-641vn) (i7 11800h 8gb ram/512gb ssd/rtx3050 4gb/15.6 inch fhd 144hz/win10/đen) (2021)	msi	I7	8	1	512	1	4	15.6	1920x1080	29449000
-laptop msi modern 14 b11mo-460vn (i7 1165g7/8gb ram/512gb ssd/14.0 inch fhd 72% ntsc/ win10/xám) (2021)	msi	I7	8	1	512	0	0	14.0	1920x1080	10899500
-laptop acer gaming nitro 5 eagle an515-57-77ku (nh.qdgsv.001) (i7 11800h/16gb ram/512gb ssd/rtx3060 6g/15.6 inch qhd 165hz/win 10/đen) (2021)	acer	I7	16	1	512	1	0	15.6	1920x1080	19349500
+laptop msi modern 14 b11mo-460vn (i7 1165g7/8gb ram/512gb ssd/14.0 inch fhd 72% ntsc/ win10/xám) (2021)	msi	I7	8	1	512	0	0	14.0	1920x1080	21799000
+laptop acer gaming nitro 5 eagle an515-57-77ku (nh.qdgsv.001) (i7 11800h/16gb ram/512gb ssd/rtx3060 6g/15.6 inch qhd 165hz/win 10/đen) (2021)	acer	I7	16	1	512	1	0	15.6	1920x1080	38699000
 laptop dell inspiron 5310 (n3i3116w) (i3 1125g4 8gbram/256gb ssd/13.3 inch fhd/win10/bạc)	dell	I3	8	1	256	0	0	13.3	1920x1080	17334000
 laptop dell latitude 3420 (l3420i3ssd) (i3 1115g4 8gb ram/256gb ssd/14.0 inch/fedora/đen) (2021)	dell	I3	8	1	256	0	0	14.0	1920x1080	16899000
 laptop hp pavilion 15-eg0505tu (46m02pa) ( i5-1135g7/8gb ram/512gb ssd/15.6 fhd/win10/vàng)	hp	I5	8	1	512	0	0	15.6	1920x1080	20024000
@@ -764,7 +764,7 @@ laptop hp pavilion 15-eg0513tu (46m12pa) ( i3-1125g4/4gb ram/256gb ssd/15.6 fhd/
 laptop hp pavilion 15-eg0509tu (46m08pa) ( i3-1125g4/4gb ram/512gb ssd/15.6 fhd/win10/vàng)	hp	I3	4	1	512	0	0	15.6	1920x1080	15979000
 laptop dell latitude 3520 (70251594) (i5 1135g7 8gb ram/256gb ssd/15.6 inch fhd/fedora/đen) (2021)	dell	I5	8	1	256	0	0	15.6	1920x1080	20449000
 laptop hp 240 g8 (3d0e1pa) (i5 1135g7/4gb ram/256gb ssd/14 fhd/fp/win10/bạc)	hp	I5	4	1	256	0	0	14.0	1920x1080	18599000
-laptop dell vostro 5301 (yv5wy1) (i5 11300h 8gb ram/512gbssd/13.3 inch fhd/win10/xám)	dell	I5	8	1	512	0	0	13.3	1920x1080	11609500
+laptop dell vostro 5301 (yv5wy1) (i5 11300h 8gb ram/512gbssd/13.3 inch fhd/win10/xám)	dell	I5	8	1	512	0	0	13.3	1920x1080	23219000
 laptop msi modern 14 (b11mo-682vn) (i3 1115g4/8gb ram/256gb ssd/14.0inch fhd 72% ntsc/win10/xanh)	msi	I3	8	1	256	0	0	14.0	1920x1080	14919000
 laptop msi modern 14 (b11sb-626vn) (i5-1155g7/8gb ram/512gbssd/mx450 2gb/14 inch fhd 72% ntsc/win 10/xanh)	msi	I5	8	1	512	1	2	14.0	1920x1080	22854000
 laptop asus d515da-ej845t (r3 3250u/4gb ram/512gb ssd/15.6 fhd/win 10/bạc)	asus	R3	4	1	512	0	0	15.6	1920x1080	13099000
@@ -800,12 +800,12 @@ laptop msi modern 14 (b11mou-851vn) (i3 1115g4/8gb ram/256gb ssd/14.0 inch fhd/w
 laptop hp gaming omen 16-b0142tx (4y0z8pa) (i5 11400h/16gb ram/1tb ssd+32gb/16.1 fhd/rtx 3050ti 4gb/win10/đen)	hp	I5	16	1	1024	1	0	16.1	1920x1080	38999000
 laptop hp gaming omen 16-b0141tx (4y0z7pa) (i5 11400h/16gb ram/1tb ssd+32gb/16.1 fhd/rtx 3060 6gb/win10/đen)	hp	I5	16	1	1024	1	0	16.1	1920x1080	42999000
 laptop hp gaming victus 16-e0175ax (4r0u8pa) (r5 5600h/8gb ram/512gb ssd/16.1 fhd 144hz/rtx 3050 4gb/win10/đen)	hp	R5	8	1	512	1	0	16.1	1920x1080	24249000
-laptop hp gaming victus 16-d0197tx (4r0t9pa) (i7 11800h/16gb ram/512gb ssd+32gb ssd/16.1 fhd 144hz/rtx 3060 6gb/win10/xanh)	hp	I7	16	1	512	1	0	16.1	1920x1080	18999500
+laptop hp gaming victus 16-d0197tx (4r0t9pa) (i7 11800h/16gb ram/512gb ssd+32gb ssd/16.1 fhd 144hz/rtx 3060 6gb/win10/xanh)	hp	I7	16	1	512	1	0	16.1	1920x1080	37999000
 laptop lenovo yoga slim 7 14itl05 (82a300a6vn) (i7 1165g7/8gb ram/512gb ssd/14 fhd/win/tím)	lenovo	I7	8	1	512	0	0	14	1920x1080	27499000
 laptop lenovo yoga slim 7i pro 14iuh5o (82nh0011vn) (i7 11370hg/16gb ram/1tb ssd/14 oled/mx450 2gb/win/bạc)	lenovo	I7	16	1	1024	0	0	4	2880x1800	35499000
-laptop msi creator z16 (a11uet-218vn) (i9 11900h 32gb ram/1tb ssd/rtx3060 6g/16.0 inch qhd touch/win 10/xám) (2021)	msi	I9	16	1	1024	1	0	16.0	1920x1080	33494500
-laptop msi creator z16 (a11uet-217vn) (i7 11800h 32gb ram/1tb ssd/rtx3060 6g/16.0 inch qhd touch/win 10/xám) (2021)	msi	I7	32	1	1024	1	0	16.0	1920x1080	30994500
-laptop msi creator m16 (a11ud-694vn) (i7 11800h 16gb ram/1tb ssd/rtx3050ti 4g/16.0 inch qhd/win 10/đen) (2021)	msi	I7	16	1	1024	1	0	16.0	1920x1080	19994500
+laptop msi creator z16 (a11uet-218vn) (i9 11900h 32gb ram/1tb ssd/rtx3060 6g/16.0 inch qhd touch/win 10/xám) (2021)	msi	I9	16	1	1024	1	0	16.0	1920x1080	66989000
+laptop msi creator z16 (a11uet-217vn) (i7 11800h 32gb ram/1tb ssd/rtx3060 6g/16.0 inch qhd touch/win 10/xám) (2021)	msi	I7	32	1	1024	1	0	16.0	1920x1080	61989000
+laptop msi creator m16 (a11ud-694vn) (i7 11800h 16gb ram/1tb ssd/rtx3050ti 4g/16.0 inch qhd/win 10/đen) (2021)	msi	I7	16	1	1024	1	0	16.0	1920x1080	39989000
 laptop asus gaming rog strix g513im-hn057t (r7 4800h/16gb ram/512gb ssd/15.6 fhd 144hz/rtx3060 6gb/win10/xám)	asus	R7	16	1	512	1	6	15.6	1920x1080	32749000
 laptop asus vivobook a515ep-bq498t (i5 1135g7/8gb ram/512gb ssd/15.6 fhd/mx330 2gb/win10/bạc)	asus	I5	8	1	512	1	2	15.6	1920x1080	20099000
 laptop dell gaming g15 5515 (p105f004bgr) (r5 5600h/16gb ram/ 512gb ssd/rtx3050 4g/15.6 inch fhd 120hz/win10/xám)	dell	R5	16	1	512	1	0	15.6	1920x1080	27839000
@@ -844,7 +844,7 @@ laptop hp 240 g8 (519a4pa) (i3 1005g1/4gb ram/256gb ssd/14 hd/win/bạc)	hp	I3	4
 laptop msi modern 14 (b5m-064vn) (r5 5500u/8gb ram/512gb ssd/14.0inch fhd/win10/xám) (2021)	msi	R5	8	1	512	0	0	14	1920x1080	17789000
 laptop asus expertbook b9400cea-kc0790t (i7 1165g7/16gb ram/1tb ssd/14 fhd/win/đen/túi)	asus	I7	16	1	1024	0	0	14	1920x1080	37499000
 laptop hp elite dragonfly (25w59av) (i7 165g7/16gb ram/512gb ssd/13.3 fhd touch/win pro/đen)	hp	I7	16	1	512	0	0	13.3	1920x1080	49249000
-laptop dell alienware gaming m15 r6 (p109f001bbl) (i7 11800h/32gb ram/1tb ssd/rtx3060 6g/15.6 inch fhd 165hz/win10+office/xám đậm) (2021)	dell	I7	32	1	1024	1	0	15.6	1920x1080	29249500
+laptop dell alienware gaming m15 r6 (p109f001bbl) (i7 11800h/32gb ram/1tb ssd/rtx3060 6g/15.6 inch fhd 165hz/win10+office/xám đậm) (2021)	dell	I7	32	1	1024	1	0	15.6	1920x1080	58499000
 laptop dell vostro 3510 (7t2yc1) (i5 1135g7/8gb/512gb ssd/15.6fhd/win10+office/đen)	dell	I5	8	1	512	0	0	15.6	1920x1080	21844000
 laptop dell inspiron 5410 2 in 1 (70262927) (i5 1135g7/8gb ram/256gb ssd/ 14.0 inch fhd touch/bút cảm ứng/win10+office/bạc) (2021)	dell	I5	8	1	512	0	0	13.3	2560x1600	24739000
 laptop hp 14s-fq1080au (4k0z7pa) (r3 5300u/4gb ram/256gb ssd/14 hd/win10/bạc)	hp	R3	4	1	256	0	0	14	1920x1080	13499000
@@ -890,7 +890,7 @@ laptop lenovo thinkbook 15 g2 itl (20ve006wvn) (i5 1135g7/8gb ram/512gb ssd/15.6
 laptop hp pavilion 15-eg0542tu (4p5g9pa) ( i3-1125g4/4gb ram/256gb ssd/15.6 fhd/win11/bạc)	hp	I3	4	1	256	0	0	15.6	1920x1080	15149000
 laptop hp pavilion 15-eg0541tu (4p5g8pa) ( i3-1125g4/4gb ram/512gb ssd/15.6 fhd/win11/bạc)	hp	I3	4	1	512	0	0	15.6	1920x1080	15924000
 laptop hp 240 g8 (519a7pa) (i3 1005g1/4gb ram/256gb ssd/14 fhd/win/bạc)	hp	I3	4	1	256	0	0	14.0	1920x1080	13499000
-laptop dell alienware gaming m15 r5 (70262921) (r9 5900hx/16gb ram/1tb ssd/rtx3070 8g/15.6 inch fhd 165hz/win10+office/đen) (2021)	dell	R9	16	1	1024	1	0	15.6	1920x1080	29349500
+laptop dell alienware gaming m15 r5 (70262921) (r9 5900hx/16gb ram/1tb ssd/rtx3070 8g/15.6 inch fhd 165hz/win10+office/đen) (2021)	dell	R9	16	1	1024	1	0	15.6	1920x1080	58699000
 laptop asus gaming rog zephyrus ga401ihr-hz009t (r7 4800h/8gb ram/512gb ssd/14 fhd 144hz/gtx 1650 4gb/win10/túi/xám)	asus	R7	8	1	512	0	0	13.3	2560x1600	27999000
 laptop lenovo ideapad 5 15alc05 (82ln00cdvn) (r7 5700u/8gb ram/512gb ssd/15.6 fhd/win10/xám)	lenovo	R7	8	1	512	0	0	15.6	1920x1080	18949000
 laptop asus expertbook b5302fea-lg0557t (i5 1135g7/8gb ram/512gb ssd/13.3 fhd touch/bút/win/đen/túi)	asus	I5	8	1	512	0	0	13.3	1920x1080	24099000
@@ -912,16 +912,16 @@ laptop asus vivobook a512da-ej418t (r7 3700u/8gb ram/512gb ssd/15.6 inch fhd/fp/
 laptop hp probook 440 g6 8az16pa (i5 8265u/8gb ram/256gb ssd/14 inch fhd/dos)	hp	I5	8	1	256	0	0	14	1920x1080	18234000
 laptop hp probook 450 g6 8az17pa (i5 8265u/8gb ram/256 gb ssd/15.6 inch fhd/dos)	hp	I5	8	1	256	0	0	15.6	1920x1080	18234000
 laptop msi prestige 14 a10ras 220vn (i7 10510u/16gb ram/512gb ssd/14.0 inch fhd/ mx 330 2g//win10/xám)	msi	I7	16	1	512	1	0	14	1920x1080	27719000
-laptop msi prestige 15 a10sc-222vn (i7 10710u/16gb ram/gtx 1650 max q 4gb/512gb ssd/15.6 inch fhd/win 10)	msi	I7	16	1	512	1	4	15.6	1920x1080	16409500
+laptop msi prestige 15 a10sc-222vn (i7 10710u/16gb ram/gtx 1650 max q 4gb/512gb ssd/15.6 inch fhd/win 10)	msi	I7	16	1	512	1	4	15.6	1920x1080	32819000
 microsoft surface pro 7 (i3 1005/4gb ram/128gb ssd/12.3 inch pixelsense cảm ứng/win 10 home/đen)	surface	I3	4	1	128	0	0	12.3	1920x1080	20199000
 laptop lenovo thinkbook 15-iml (20rw0091vn) (i5 10210u/4gb ram/256gb ssd/15.6 inch fhd/dos/xám)	lenovo	I5	4	1	256	0	0	15.6	1920x1080	14799000
-laptop fujitsu lifebook e549 (l00e549vn00000080) (i5 8265u/4gbram/256gb ssd/14.0/dos)(japan)	fujitsu	I5	4	1	256	0	0	14.0	1920x1080	10099500
-laptop fujitsu lifebook e559 (l00e559vn00000049) (i5 8265u/8gbram/256gb ssd/15.6/dos) (japan)	fujitsu	I5	8	1	256	0	0	15.6	1920x1080	10704500
-laptop fujitsu lifebook u749 (l00u749vn00000071) (i7 8565u/8gbram/512gb ssd/14.0fhd/dos) (japan)	fujitsu	I7	8	1	512	0	0	14.0	1920x1080	16004500
-laptop fujitsu lifebook u729 (l00u729vn00000064) (i5 8265u/8gbram/512gb ssd/12.5fhdt/dos) (japan)	fujitsu	I5	8	1	512	0	0	12.5	1920x1080	15804500
-laptop msi p75 creator 9sf (i9 9880h/ 32gb ram/1tb ssd/rtx2070 8g maxq/17.3 inch uhd 4k/win 10)	msi	I9	32	1	1024	1	0	17.3	1920x1080	40394500
-laptop msi p65 creator 9se (i7 9750h/16gb ram/512gb ssd/rtx2060 6g/15.6 inch uhd 4k/win 10)	msi	I7	16	1	512	1	0	15.6	1920x1080	25244500
-laptop msi gaming gl65 leopard 10sek (235vn) (i7-10750h/16gb ram/1tbssd/rtx 2060 6g/15.6 inch fhd 144hz/win 10/đen) (2020)	msi	I7	16	1	1024	1	6	15.6	1920x1080	18379500
+laptop fujitsu lifebook e549 (l00e549vn00000080) (i5 8265u/4gbram/256gb ssd/14.0/dos)(japan)	fujitsu	I5	4	1	256	0	0	14.0	1920x1080	20199000
+laptop fujitsu lifebook e559 (l00e559vn00000049) (i5 8265u/8gbram/256gb ssd/15.6/dos) (japan)	fujitsu	I5	8	1	256	0	0	15.6	1920x1080	21409000
+laptop fujitsu lifebook u749 (l00u749vn00000071) (i7 8565u/8gbram/512gb ssd/14.0fhd/dos) (japan)	fujitsu	I7	8	1	512	0	0	14.0	1920x1080	32009000
+laptop fujitsu lifebook u729 (l00u729vn00000064) (i5 8265u/8gbram/512gb ssd/12.5fhdt/dos) (japan)	fujitsu	I5	8	1	512	0	0	12.5	1920x1080	31609000
+laptop msi p75 creator 9sf (i9 9880h/ 32gb ram/1tb ssd/rtx2070 8g maxq/17.3 inch uhd 4k/win 10)	msi	I9	32	1	1024	1	0	17.3	1920x1080	80789000
+laptop msi p65 creator 9se (i7 9750h/16gb ram/512gb ssd/rtx2060 6g/15.6 inch uhd 4k/win 10)	msi	I7	16	1	512	1	0	15.6	1920x1080	50489000
+laptop msi gaming gl65 leopard 10sek (235vn) (i7-10750h/16gb ram/1tbssd/rtx 2060 6g/15.6 inch fhd 144hz/win 10/đen) (2020)	msi	I7	16	1	1024	1	6	15.6	1920x1080	36759000
 laptop gaming  msi gl65 leopard 10sdk (242vn) (i7-10750h/16gb ram/512gb ssd/gtx 1660ti/15.6 inch fhd/win 10/đen) (2020)	gaming	I7	16	1	512	1	0	15.6	1920x1080	32919000
 laptop msi gaming ge75 raider 10sfs (270vn) (i9 10980hk/16gb ram/ 512gb ssd+1tb hdd/rtx 2070 super 8g/17.3 inch fhd 240hz/ win10)	msi	I9	16	1	512	1	0	17.3	1920x1080	66144000
 "microsoft surface go 2 (stq-00001) (intel 4425y/8gb ram/128gb ssd/10.5""/win10/bạc)(bảo hành tại hacom)"	surface	4425Y	8	1	128	0	0	10.5	1920x1080	15934000
@@ -930,20 +930,20 @@ laptop msi gaming ge75 raider 10sfs (270vn) (i9 10980hk/16gb ram/ 512gb ssd+1tb 
 "microsoft surface go 2 (stv-00001) (intel 4425y/4gb ram/64gb ssd/10.5""/win10/bạc)(bảo hành tại hacom)"	surface	4425Y	4	1	64	0	0	10.5	1920x1080	13824000
 apple macbook pro 13 touchbar (mwp82) (i5 2.0ghz/16gb ram/1tb ssd/13.3inch ips/mac os/bạc) (2020)	macbook	I5	16	1	1024	0	0	13.3	2560x1600	55034000
 apple macbook pro 13 touchbar (mwp52) (i5 2.0ghz/16gb ram/1tb ssd/13.3inch ips/mac os/xám) (2020)	macbook	I5	16	1	1024	0	0	13.3	2560x1600	55034000
-laptop gaming vgs imperium (bqc71aubu6000m2s2) (i7 9750h/ 32gb ram/ 1tb ssd/ gtx1660ti 6g/15.6 inch fhd ips/xám kim loại)	gaming	I7	32	1	1024	1		15.6	1920x1080	20099500
-laptop gaming vgs imperium (bqc71aubu6000m3s3) (i7 9750h/ 64gb ram/ 2tb ssd/ gtx1660ti 6g/15.6 inch fhd ips/xám kim loại)	gaming	I7	64	1	2048	1	6	15.6	1920x1080	25654500
-laptop gaming vgs imperium (bqc71abbu6000m3s3) (i7 9750h/ 64gb ram/ 2tb ssd/ gtx1660ti 6g/15.6 inch fhd ips/đen)	gaming	I7	64	1	2048	1	6	15.6	1920x1080	25654500
+laptop gaming vgs imperium (bqc71aubu6000m2s2) (i7 9750h/ 32gb ram/ 1tb ssd/ gtx1660ti 6g/15.6 inch fhd ips/xám kim loại)	gaming	I7	32	1	1024	1		15.6	1920x1080	40199000
+laptop gaming vgs imperium (bqc71aubu6000m3s3) (i7 9750h/ 64gb ram/ 2tb ssd/ gtx1660ti 6g/15.6 inch fhd ips/xám kim loại)	gaming	I7	64	1	2048	1	6	15.6	1920x1080	51309000
+laptop gaming vgs imperium (bqc71abbu6000m3s3) (i7 9750h/ 64gb ram/ 2tb ssd/ gtx1660ti 6g/15.6 inch fhd ips/đen)	gaming	I7	64	1	2048	1	6	15.6	1920x1080	51309000
 laptop gaming vgs imperium (bqc71aubu6000m1s1) (i7 9750h/ 16gb ram/ 512gb ssd/ gtx1660ti 6g/15.6 inch fhd ips/xám kim loại)	gaming	I7	16	1	512	1	6	15.6	1920x1080	36769000
-laptop gaming vgs imperium (bqc71abbu6000m2s2) (i7 9750h/ 32gb ram/ 1tb ssd/ gtx1660ti 6g/15.6 inch fhd ips/đen)	gaming	I7	32	1	1024	1		15.6	1920x1080	20099500
+laptop gaming vgs imperium (bqc71abbu6000m2s2) (i7 9750h/ 32gb ram/ 1tb ssd/ gtx1660ti 6g/15.6 inch fhd ips/đen)	gaming	I7	32	1	1024	1		15.6	1920x1080	40199000
 laptop gaming vgs imperium (bqc71bubu6000m1s1) (i7 9750h/ 16gb ram/ 512gb ssd/ gtx1660ti 6g/15.6 inch fhd ips/đen)	gaming	I7	16	1	512	1	6	15.6	1920x1080	36769000
-laptop gaming vgs imperium (bqc71bbbu6000m3s3) (i7 9750h/ 64gb ram/ 2tb ssd/ rtx2070 maxq 8g/15.6 inch fhd ips/đen)	gaming	I7	64	1	2048	1	8	15.6	1920x1080	30604500
-laptop gaming vgs imperium (bqc71bbbu6000m2s2) (i7 9750h/ 32gb ram/ 1tb ssd/ rtx2070 maxq 8g/15.6 inch fhd ips/đen)	gaming	I7	32	1	1024	1	8	15.6	1920x1080	25149500
-laptop gaming vgs imperium (bqc71bubu6000m2s2) (i7 9750h/ 32gb ram/ 1tb ssd/ rtx2070 maxq 8g/15.6 inch fhd ips/xám kim loại)	gaming	I7	32	1	1024	1	8	15.6	1920x1080	25149500
-laptop gaming vgs imperium (bqc71bbbu6000m1s1) (i7 9750h/ 16gb ram/ 512gb ssd/ rtx2070 maxq 8g/15.6 inch fhd ips/đen)	gaming	I7	16	1	512	1	8	15.6	1920x1080	22829500
-laptop gaming vgs imperium (bqc71bubu6000m1s1) (i7 9750h/ 16gb ram/ 512gb ssd/ rtx2070 maxq 8g/15.6 inch fhd ips/xám kim loại)	gaming	I7	16	1	512	1	8	15.6	1920x1080	22829500
-laptop gaming vgs imperium (bqc71bbbu6000m3s3) (i7 9750h/ 64gb ram/ 2tb ssd/ gtx2070 maxq 8g/15.6 inch fhd ips/xám kim loại)	gaming	I7	64	1	2048	1	8	15.6	1920x1080	30604500
+laptop gaming vgs imperium (bqc71bbbu6000m3s3) (i7 9750h/ 64gb ram/ 2tb ssd/ rtx2070 maxq 8g/15.6 inch fhd ips/đen)	gaming	I7	64	1	2048	1	8	15.6	1920x1080	61209000
+laptop gaming vgs imperium (bqc71bbbu6000m2s2) (i7 9750h/ 32gb ram/ 1tb ssd/ rtx2070 maxq 8g/15.6 inch fhd ips/đen)	gaming	I7	32	1	1024	1	8	15.6	1920x1080	50299000
+laptop gaming vgs imperium (bqc71bubu6000m2s2) (i7 9750h/ 32gb ram/ 1tb ssd/ rtx2070 maxq 8g/15.6 inch fhd ips/xám kim loại)	gaming	I7	32	1	1024	1	8	15.6	1920x1080	50299000
+laptop gaming vgs imperium (bqc71bbbu6000m1s1) (i7 9750h/ 16gb ram/ 512gb ssd/ rtx2070 maxq 8g/15.6 inch fhd ips/đen)	gaming	I7	16	1	512	1	8	15.6	1920x1080	45659000
+laptop gaming vgs imperium (bqc71bubu6000m1s1) (i7 9750h/ 16gb ram/ 512gb ssd/ rtx2070 maxq 8g/15.6 inch fhd ips/xám kim loại)	gaming	I7	16	1	512	1	8	15.6	1920x1080	45659000
+laptop gaming vgs imperium (bqc71bbbu6000m3s3) (i7 9750h/ 64gb ram/ 2tb ssd/ gtx2070 maxq 8g/15.6 inch fhd ips/xám kim loại)	gaming	I7	64	1	2048	1	8	15.6	1920x1080	61209000
 laptop asus gaming rog strix g531gt-hn554t (i7 9750h/8gb ram/512gb ssd/15.6 fhd 144hz/gtx 1650 4gb/win10/đen)	asus	I7	8	1	512	1	0	15.6	1920x1080	24494000
-laptop asus gaming rog strix g512-ial001t (i7 10750h/8gb ram/512gb ssd/15.6 fhd 144hz/gtx 1650ti 4gb/win10/đen)	asus	I7	8	1	512	1	4	15.6	1920x1080	13384500
+laptop asus gaming rog strix g512-ial001t (i7 10750h/8gb ram/512gb ssd/15.6 fhd 144hz/gtx 1650ti 4gb/win10/đen)	asus	I7	8	1	512	1	4	15.6	1920x1080	26769000
 laptop acer gaming aspire 7 a715-41g-r282 (nh.q8ssv.005) (ryzen 5 3550h/8gb ram/512gb ssd/gtx1650ti 4g ddr6/15.6 inch fhd ips/win10/đen	acer	R5	8	1	512	1	4	15.6	1920x1080	19699000
 laptop acer gaming aspire 7 a715-41g-r150 (nh.q8ssv.004) (ryzen 7 3750h/8gb ram/512gb ssd/ gtx1650ti 4g ddr6/15.6 inch fhd ips/win10/đen)	acer	R7	8	1	512	1	0	15.6	1920x1080	20804000
 laptop lenovo ideapad s145-14iil (81w600cevn) (core i3 1005g1/4gb ram/512gb ssd/14 fhd/win10/xám)	lenovo	I3	4	1	512	0	0	14	1920x1080	11314000
@@ -951,7 +951,7 @@ microsoft surface book 3 (sls-00001) (core i7/32gb ram/1tb ssd/13.5 cảm ứng/
 laptop msi gaming stealth 15m a11sdk (060vn) (i7-1185g7/16gb ram/512gb ssd/gtx1660ti 6g maxq/15.6 inch fhd/win 10/trắng) (2020)	msi	I7	16	1	512	1	0	15.6	1920x1080	34084000
 laptop msi gaming gl65 leopard 10scxk (089vn) (i7-10750h/8gb ram/512gb ssd/gtx 1650 ddr6/15.6 inch fhd 144hz/win 10/đen) (2020)	msi	I7	8	1	512	1	0	15.6	1920x1080	24784000
 laptop msi modern 14 b11sb (074vn) (i5-1135g7/8gb ram/512gb ssd/mx450 2gb/14 inch fhd/win 10/xanh) (2020)	msi	I5	8	1	512	0	0	14	1920x1080	22969000
-laptop msi prestige 15 a11scx (210vn) (i7 1185g7/32gb/1tb ssd/1650 max q/15.6uhd 4k/win10/xám)	msi	I7	32	1	1024	1	4	15.6	1920x1080	23224500
+laptop msi prestige 15 a11scx (210vn) (i7 1185g7/32gb/1tb ssd/1650 max q/15.6uhd 4k/win10/xám)	msi	I7	32	1	1024	1	4	15.6	1920x1080	46449000
 microsoft surface book 3 (i7 1065g7/16gb ram/256gb ssd/13.5 cảm ứng/gtx 1650 4gb/win10/keyboard) (bảo hành tại hacom)	surface	I7	16	1	256	0	0	13.5	1920x1080	57569000
 microsoft surface book 3 (i7 1065g7/32gb ram/2tb ssd/13.5 cảm ứng/gtx 1650 4gb/win10/keyboard) (bảo hành tại hacom)	surface	I7	32	1	2048	0	0	13.5	1920x1080	96454000
 microsoft surface book 3 (i7 1065g7/16gb ram/256gb ssd/15 cảm ứng/gtx 1660ti 6gb/win10/keyboard) (bảo hành tại hacom)	surface	I7	16	1	256	0	0	15	1920x1080	66659000
@@ -971,10 +971,10 @@ apple macbook air 13 (mgna3sa/a) (apple m1/8gb ram/512gb ssd/13.3 inch ips/mac o
 apple macbook air 13 (mgne3sa/a) (apple m1/8gb ram/512gb ssd/13.3 inch ips/mac os/vàng) (new)	macbook	M1	8	1	512	0	0	13.3	2560x1600	33524000
 apple macbook pro 13 touchbar (myda2sa/a) (apple m1/8gb ram/256gb ssd/13.3 inch ips/mac os/bạc) (new)	macbook	M1	8	1	256	0	0	13.3	2560x1600	34014000
 laptop dell xps 13 9310 (70231343) (i5 1135g1/8gbram/256gb ssd/13.4 inch fhd touch/fp/win10/bạc)	dell	I5	8	1	256	0	0	13.4	16	40649000
-laptop đồ họa conceptd 3 ezel pro cc314-72p-75eg (nx.c5ksv.001 ) (i7 10750h/16gb ram/1tb ssd/quadro™ t1000/14 inch fhd touch/bút/win10 pro/trắng)	conceptd	I7	16	1	1024	0	0	14	1920x1080	26259500
-laptop đồ họa conceptd 3 ezel cc314-72g-75sm (nx.c5jsv.002) (i7 10750h/16gb ram/1tb ssd/gtx1650ti 4g/14 inch fhd touch/bút/win10 pro/trắng)	conceptd	I7	16	1	1024	0	0	14	1920x1080	26259500
-laptop đồ họa conceptd 7 ezel cc715-71-7940 (nx.c5esv.002) (i7 10875h/32gb ram/1tb ssd/rtx2060 6g/15.6 inch uhd 4k touch/bút/win10 pro/trắng)	conceptd	I7	32	1	1024	0	0	15.6	1920x1080	40399500
-laptop đồ họa conceptd 7 ezel pro cc715-91p-x8cx (nx.c5fsv.001) (xeon w 10885m/32gb ram/2tb ssd/quadro rtx5000 16g/15.6 inch uhd 4k touch/bút/win10 pro/trắng)	conceptd	W10885M	32	1	2048	0	0	15.6	1920x1080	75749500
+laptop đồ họa conceptd 3 ezel pro cc314-72p-75eg (nx.c5ksv.001 ) (i7 10750h/16gb ram/1tb ssd/quadro™ t1000/14 inch fhd touch/bút/win10 pro/trắng)	conceptd	I7	16	1	1024	0	0	14	1920x1080	52519000
+laptop đồ họa conceptd 3 ezel cc314-72g-75sm (nx.c5jsv.002) (i7 10750h/16gb ram/1tb ssd/gtx1650ti 4g/14 inch fhd touch/bút/win10 pro/trắng)	conceptd	I7	16	1	1024	0	0	14	1920x1080	52519000
+laptop đồ họa conceptd 7 ezel cc715-71-7940 (nx.c5esv.002) (i7 10875h/32gb ram/1tb ssd/rtx2060 6g/15.6 inch uhd 4k touch/bút/win10 pro/trắng)	conceptd	I7	32	1	1024	0	0	15.6	1920x1080	80799000
+laptop đồ họa conceptd 7 ezel pro cc715-91p-x8cx (nx.c5fsv.001) (xeon w 10885m/32gb ram/2tb ssd/quadro rtx5000 16g/15.6 inch uhd 4k touch/bút/win10 pro/trắng)	conceptd	W10885M	32	1	2048	0	0	15.6	1920x1080	151499000
 laptop lenovo yoga slim 7 14itl05 (82a3004fvn) (i7 1165g7/8gb ram/512gb ssd/14 fhd/win/xanh rêu)	lenovo	I7	8	1	512	0	0	14	1920x1080	26499000
 laptop hp probook 450 g8 (2h0w5pa) (i7 1165g7/8gb ram/512gb ssd /15.6 fhd/win/bạc)	hp	I7	8	1	512	0	0	15.6	1920x1080	25579000
 laptop hp probook 450 g8 (2h0w6pa) (i7 1165g7/8gb ram/512gb ssd /15.6 fhd/mx450 2gb/win/bạc)	hp	I7	8	1	512	0	0	15.6	1920x1080	27889000
@@ -1021,7 +1021,7 @@ apple macbook air 13 (z12b) (apple m1/16gb ram/512gb ssd/13.3 inch ips/mac os/v�
 laptop dell xps 13 9310 (70234076) (i5 1135g1/8gbram/512gb ssd/13.4 inch fhd/win10/bạc)	dell	I5	8	1	512	0	0	13.4	16	39379000
 laptop acer gaming nitro 5 an515-56-51n4 (nh.qbzsv.002) (i5 11300h/ 8gb ram/ 512gb ssd/ gtx1650 4g/15.6 inch fhd 144hz/win 10) (2021)	acer	I5	8	1	512	1	0	15.6	1920x1080	23239000
 laptop hp probook 430 g8 (348d6pa) (i5 1135g7/8gb ram/512gb ssd /13.3 fhd/fp/dos/bạc)	hp	I5	8	1	512	0	0	13.3	2560x1600	20654000
-laptop acer gaming nitro 5 an515-56-79u2 (nh.qbzsv.001) (i7 11370h/ 8gb ram/ 512gb ssd/ gtx1650 4g/15.6 inch fhd 144hz/win 10/đen) (2021)	acer	I7	8	1	512	1	0	15.6	1920x1080	12974500
+laptop acer gaming nitro 5 an515-56-79u2 (nh.qbzsv.001) (i7 11370h/ 8gb ram/ 512gb ssd/ gtx1650 4g/15.6 inch fhd 144hz/win 10/đen) (2021)	acer	I7	8	1	512	1	0	15.6	1920x1080	25949000
 laptop hp probook 430 g8 (2z6t0pa) (i5 1135g7/8gb ram/256gb ssd /13.3 fhd/fp/dos/bạc)	hp	I5	8	1	256	0	0	13.3	2560x1600	19749000
 laptop hp probook 430 g8 (2h0n6pa) (i5 1135g7/4gb ram/256gb ssd /13.3 fhd/fp/win/bạc)	hp	I5	4	1	256	0	0	13.3	2560x1600	19394000
 laptop lenovo ideapad 5 14itl05 (82fe00llvn ) (core i5 1135g7/8gb ram/512gb ssd/14 fhd/win10/xám)	lenovo	I5	8	1	512	0	0	13.3	2560x1600	19349000
@@ -1053,7 +1053,7 @@ laptop asus zenbook ux482eg-ka099t (i7 1165g7/16gb ram/1tb ssd/14 fhd cảm ứn
 laptop hp probook 430 g8 (2h0n8pa) (i5 1135g7/8gb ram/256gb ssd /13.3 fhd/fp/win/bạc)	hp	I5	8	1	256	0	0	13.3	2560x1600	20454000
 laptop hp probook 430 g8 (2h0n7pa) (i5 1135g7/4gb ram/512gb ssd /13.3 fhd/fp/win/bạc)	hp	I5	4	1	512	0	0	13.3	2560x1600	20404000
 laptop hp probook 440 g8 (2z6j3pa) (i5 1135g7/8gb ram/256gb ssd /14 fhd/fp/dos/bạc)	hp	I5	8	1	256	0	0	14	1920x1080	19799000
-laptop msi modern 14 (b4m-290vn) (r3 4300u/8gb ram/256gb ssd/14.0inch fhd/win10/xám)	msi	R3	8	1	256	0	0	14	1920x1080	7069500
+laptop msi modern 14 (b4m-290vn) (r3 4300u/8gb ram/256gb ssd/14.0inch fhd/win10/xám)	msi	R3	8	1	256	0	0	14	1920x1080	14139000
 laptop hp elitebook x360 1030 g8 (3g1c4pa) (core i7 1165g7/16gb ram/512gb ssd/13.3 fhd touch/win10 pro/bút/bạc)	hp	I7	16	1	512	0	0	13.3	1920x1080	49899000
 laptop hp elitebook x360 1040 g8 (3g1h4pa) (core i7 1165g7/16gb ram/512gb ssd/14 fhd touch/win10 pro/bút/bạc)	hp	I7	16	1	512	0	0	14	1920x1080	50049000
 laptop asus zenbook ux425ea-ki439t (i7 1165g7/16gb ram/512gb ssd/14 fhd/win10/xám)	asus	I7	16	1	512	0	0	14	1920x1080	30504000
@@ -1061,26 +1061,26 @@ laptop dell inspiron 5405 (vk0mc1) (r7 4700u 8gb ram/512gb ssd/14 inch fhd/win10
 laptop asus vivobook s s533ea-bn293t (i5 1135g7/8gb ram/512gb ssd/15.6 fhd/win10/đen)	asus	I5	8	1	512	0	0	15.6	1920x1080	20304000
 laptop asus vivobook s15 s533eq-bn338t (i5 1135g7/8gb ram/512gb ssd/15.6 fhd/mx350 2gb/win10/đen)	asus	I5	8	1	512	0	0	15.6	1920x1080	22699000
 laptop gigabyte gaming g5 (kc-5s11130sh) (i5 10500h /16gb ram/512gb ssd/rtx3060 6g/15.6 inch fhd 144hz/win 10/đen) (2021)	gigabyte	I5	16	1	512	1	0	15.6	1920x1080	31409000
-laptop gigabyte gaming g7 (md-71s1223sh) (i7 11800h /16gb ram/512gb ssd/rtx3050ti 4g/17.3 inch fhd 144hz/win 10/đen) (2021)	gigabyte	I7	16	1	512	1	0	17.3	1920x1080	16494500
-laptop gigabyte gaming aorus 15p (xd-73s1224gh) (i7 11800h /16gb ram/1tb ssd/rtx3070 8g/15.6 inch fhd 240hz/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	1024	1	0	15.6	1920x1080	26499500
-laptop gigabyte gaming aorus 15p (kd-72s1223gh) (i7 11800h /16gb ram/512gb ssd/rtx3060 6g/15.6 inch fhd 240hz/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	512	1	0	15.6	1920x1080	22349500
-laptop gigabyte gaming aero 15 oled (yd-73s1624gh) (i7 11800h /16gb ram/1tb ssd/rtx3080 8g/15.6 inch uhd amoled/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	1024	1	0	15.6	1920x1080	38494500
-laptop gigabyte gaming aero 15 oled (xd-73s1624gh) (i7 11800h /16gb ram/1tb ssd/rtx3070 8g/15.6 inch uhd amoled/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	1024	1	0	15.6	1920x1080	29994500
-laptop msi gaming gl76 leopard (11uek-048vn) (i7 11800h/ 16gb/1tb ssd/rtx3060 6g/17.3 inch fhd 144hz/win 10) (2021)	msi	I7	16	1	1024	1	0	17.3	1920x1080	22214500
+laptop gigabyte gaming g7 (md-71s1223sh) (i7 11800h /16gb ram/512gb ssd/rtx3050ti 4g/17.3 inch fhd 144hz/win 10/đen) (2021)	gigabyte	I7	16	1	512	1	0	17.3	1920x1080	32989000
+laptop gigabyte gaming aorus 15p (xd-73s1224gh) (i7 11800h /16gb ram/1tb ssd/rtx3070 8g/15.6 inch fhd 240hz/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	1024	1	0	15.6	1920x1080	52999000
+laptop gigabyte gaming aorus 15p (kd-72s1223gh) (i7 11800h /16gb ram/512gb ssd/rtx3060 6g/15.6 inch fhd 240hz/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	512	1	0	15.6	1920x1080	44699000
+laptop gigabyte gaming aero 15 oled (yd-73s1624gh) (i7 11800h /16gb ram/1tb ssd/rtx3080 8g/15.6 inch uhd amoled/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	1024	1	0	15.6	1920x1080	76989000
+laptop gigabyte gaming aero 15 oled (xd-73s1624gh) (i7 11800h /16gb ram/1tb ssd/rtx3070 8g/15.6 inch uhd amoled/win 10/đen/balo aorus) (2021)	gigabyte	I7	16	1	1024	1	0	15.6	1920x1080	59989000
+laptop msi gaming gl76 leopard (11uek-048vn) (i7 11800h/ 16gb/1tb ssd/rtx3060 6g/17.3 inch fhd 144hz/win 10) (2021)	msi	I7	16	1	1024	1	0	17.3	1920x1080	44429000
 laptop msi modern 15 (a5m-047vn) (r7 5700u/8gb ram/512gb ssd/15.6 inch fhd/win10/xám) (2021)	msi	R7	8	1	512	0	0	15.6	1920x1080	20249000
 laptop msi summit e16 flip (a11uct-030vn) (i7 1195g7/16gb ram/1tb ssd/16.0 inch qhd touch/rtx 3050 4g/win10/bút msi/đen) (2021)	msi	I7	16	1	1024	1	0	16.0	1920x1080	46949000
-laptop hp 15s-fq2558tu (46m26pa) (i7 1165g7/8gb ram/512gb ssd/15.6 hd/win10/bạc)	hp	I7	8	1	512	0	0	15.6	1920x1080	9749500
+laptop hp 15s-fq2558tu (46m26pa) (i7 1165g7/8gb ram/512gb ssd/15.6 hd/win10/bạc)	hp	I7	8	1	512	0	0	15.6	1920x1080	19499000
 laptop dell latitude 3420 (42lt342001) (i3 1115g4 4gb ram/256gb ssd/14.0 inch hd/fedora/đen) (2021)	dell	I3	4	1	256	0	0	14.0	1920x1080	14739000
 laptop hp 240 g8 (3d0e3pa) (i5 1135g7/4gb ram/256gb ssd/14 fhd/dos/bạc)	hp	I5	4	1	256	0	0	14.0	1920x1080	16109000
 laptop asus d515da-ej711t (r3 3250u/4gb ram/512gb ssd/15.6 fhd/win 10/bạc)	asus	R3	4	1	512	0	0	15.6	1920x1080	12779000
 laptop asus expertbook b9 b9400cea-kc0558t (i5 1135g7/8gb ram/512gb ssd/14 fhd/win10/đen/túi)	asus	I5	8	1	512	0	0	14	1920x1080	29144000
 laptop asus expertbook b9 b9400cea-kc0593t (i7 1165g7/16gb ram/1tb ssd/14 fhd/win10/đen/túi)	asus	I7	16	1	1024	0	0	14	1920x1080	36684000
-laptop acer gaming nitro 5 eagle an515-57-74rd (nh.qd8sv.001) (i7 11800h/8gb ram/512gb ssd/rtx3050 4g/15.6 inch fhd 144hz/win 10/đen) (2021)	acer	I7	8	1	512	1	0	15.6	1920x1080	13749500
+laptop acer gaming nitro 5 eagle an515-57-74rd (nh.qd8sv.001) (i7 11800h/8gb ram/512gb ssd/rtx3050 4g/15.6 inch fhd 144hz/win 10/đen) (2021)	acer	I7	8	1	512	1	0	15.6	1920x1080	27499000
 laptop lenovo legion 5-15ach6 (82jw0038vn) (r7 5800h/8gb ram/512gb ssd/15.6 fhd 165hz /rtx3050 4g/win/xanh)	lenovo	R7	8	1	512	1	0	15.6	1920x1080	30654000
 laptop lenovo legion 5-15ach6 (82jw0037vn) (r5 5600h/8gb ram/512gb ssd/15.6 fhd 165hz/rtx3050 4g/win/xanh)	lenovo	R5	8	1	512	1	0	15.6	1920x1080	28644000
 laptop asus x415ea-eb265t (i5 1135g7/4gb ram/512gb ssd/14 fhd/win 10/bạc)	asus	I5	4	1	512	0	0	14	1920x1080	17289000
 laptop lenovo ideapad 3 14alc6 (82kt004dvn) (r7 5700u/2*4gb ram/512gb ssd/14 fhd/win10/xám)	lenovo	R7	8	1	512	0	0	14	1920x1080	16869000
-laptop acer gaming predator helios 300 ph315-54-78w5 (nh.qc5sv.001) (i7 11800h/8gb ram/512gb ssd/rtx3050ti 4g/15.6 inch fhd 144hz/win 10/đen) (2021)	acer	I7	8	1	512	1	0	15.6	1920x1080	16994500
+laptop acer gaming predator helios 300 ph315-54-78w5 (nh.qc5sv.001) (i7 11800h/8gb ram/512gb ssd/rtx3050ti 4g/15.6 inch fhd 144hz/win 10/đen) (2021)	acer	I7	8	1	512	1	0	15.6	1920x1080	33989000
 laptop asus d415da-ek482t (r3 3250u/4gb ram/512gb ssd/14 fhd/win 10/bạc)	asus	R3	4	1	512	0	0	14	1920x1080	12974000
 laptop asus x415ea-eb266t (i5 1135g7/4gb ram/512gb ssd/14 fhd/win 10/xám)	asus	I5	4	1	512	0	0	14	1920x1080	17549000
 laptop dell vostro 5410 (v4i5014w) (i5 11300h/8gb ram/ 512gb ssd/14.0 inch fhd/win 10/xám)	dell	I5	8	1	512	0	0	13.3	2560x1600	22819000
@@ -1105,12 +1105,12 @@ laptop asus gaming tuf fx506hcb-hn141t (i7 11800h/8gb ram/512gb ssd/15.6 fhd 144
 laptop asus gaming rog strix g733qs-k4135t (r9 5900hx/32gb ram/1tb ssd/17.3 fhd 165hz/rtx 3080 16gb/win10/xám/balo/chuột)	asus	R9	32	1	1024	1	16	17.3	1920x1080	76499000
 laptop hp gaming omen 16-b0127tx (4y0w7pa) (i7 11800h/16gb ram/1tb ssd+32gb/16.1 qhd/rtx 3060 6gb/win10/đen)	hp	I7	16	1	1024	1	0	16.1	1920x1080	48499000
 laptop hp gaming omen 16-b0123tx (4y0w6pa) (i7 11800h/32gb ram/512gb ssd+512gb ssd/16.1 qhd/rtx 3070 8gb/win10/đen)	hp	I7	32	1	1024	1	0	16.1	1920x1080	61499000
-laptop hp gaming victus 16-e0177ax (4r0u9pa) (r5 5600h/8gb ram/512gb ssd/16.1 fhd 144hz/gtx 1650 4gb/win10/đen)	hp	R5	8	1	512	1	0	16.1	1920x1080	11499500
+laptop hp gaming victus 16-e0177ax (4r0u9pa) (r5 5600h/8gb ram/512gb ssd/16.1 fhd 144hz/gtx 1650 4gb/win10/đen)	hp	R5	8	1	512	1	0	16.1	1920x1080	22999000
 laptop hp gaming victus 16-e0179ax (4r0v0pa) (r5 5600h/8gb ram/512gb ssd/16.1 fhd 144hz/rtx 3050ti 4gb/win10/đen)	hp	R5	8	1	512	1	0	16.1	1920x1080	26249000
 laptop hp gaming victus 16-d0200tx (4r0u2pa) (i7 11800h/8gb ram/512gb ssd/16.1 fhd 144hz/gtx 1650 4gb/win10/đen)	hp	I7	8	1	512	1	0	16.1	1920x1080	28749000
 laptop hp gaming victus 16-d0199tx (4r0u1pa) (i7 11800h/8gb ram/512gb ssd/16.1 fhd 144hz/rtx 3050 4gb/win10/đen)	hp	I7	8	1	512	1	0	16.1	1920x1080	30249000
 laptop hp gaming victus 16-d0198tx (4r0u0pa) (i7 11800h/8gb ram/512gb ssd/16.1 fhd 144hz/rtx 3050ti 4gb/win10/đen)	hp	I7	8	1	512	1	0	16.1	1920x1080	31749000
-laptop msi creator 17 (b11ug-601vn) (i7 11800h 32gb ram/1tb ssd/rtx3070 max q 8g/17.0 inch uhd 4k/win 10/đen) (2021)	msi	I7	32	1	1024	1	0	17.0	1920x1080	33494500
+laptop msi creator 17 (b11ug-601vn) (i7 11800h 32gb ram/1tb ssd/rtx3070 max q 8g/17.0 inch uhd 4k/win 10/đen) (2021)	msi	I7	32	1	1024	1	0	17.0	1920x1080	66989000
 laptop hp elitebook x360 830 g8 (3g1a5pa) (core i7 1165g7/16gb ram/1tb ssd/13.3 fhd touch/win10 pro/bút/bạc)	hp	I7	16	1	1024	0	0	13.3	1920x1080	40849000
 surface laptop 4 (r5 4680u/16gb ram/256gb ssd/13.5/win10/bạc)(bảo hành tại hacom)	laptop	R5	16	1	256	0	0	13.5	1920x1080	40999000
 surface laptop 4 (i5 1135g7/8gb ram/512gb ssd/13.5/win10/bạc)(bảo hành tại hacom)	laptop	I5	8	1	512	0	0	13.5	1920x1080	40249000
@@ -1118,11 +1118,11 @@ surface laptop 4 (5ai-00040) (i5 1135g7/16gb ram/512gb ssd/13.5/win10/bạc)(b�
 surface laptop 4 (i7 1185g7/16gb ram/512gb ssd/13.5/win10/bạc)(bảo hành tại hacom)	laptop	I7	16	1	512	0	0	13.5	1920x1080	60999000
 surface laptop 4 (i7 1185g7/32gb ram/1tb ssd/13.5/win10/bạc)(bảo hành tại hacom)	laptop	I7	32	1	1024	0	0	13.5	1920x1080	78499000
 laptop asus expertbook b1500ceae-bq2033t (i5 1135g7/8gb ram/512gb ssd/15.6 fhd/win/đen)	asus	I5	8	1	512	0	0	15.6	1920x1080	20199000
-laptop acer gaming predator triton 300 (pt315-53-75lq) (nh.qdqsv.001) (i7 11800h/16gb ram/512gb ssd/rtx 3060 6g/15.6 inch qhd 165hz/win10/đen) (2021)	acer	I7	16	1	512	1	0	15.6	1920x1080	21999500
-laptop acer gaming predator triton 500se (pt516-51s-733t) (nh.qalsv.001) (i7 11800h/16gb ram/1tb ssd/rtx 3060 6g/16.0 inch wqxga 165hz	acer	I7	16	1	1024	1	0	16.0	1920x1080	29994500
-laptop acer gaming predator triton 500se (pt516-51s-71rw) (nh.qaksv.001) (i7 11800h/16gb ram/1tb ssd/rtx 3080 8g/16.0 inch wqxga 165hz 100%srgb/win10/xám) (2021)	acer	I7	16	1	1024	1	0	16.0	1920x1080	42494500
+laptop acer gaming predator triton 300 (pt315-53-75lq) (nh.qdqsv.001) (i7 11800h/16gb ram/512gb ssd/rtx 3060 6g/15.6 inch qhd 165hz/win10/đen) (2021)	acer	I7	16	1	512	1	0	15.6	1920x1080	43999000
+laptop acer gaming predator triton 500se (pt516-51s-733t) (nh.qalsv.001) (i7 11800h/16gb ram/1tb ssd/rtx 3060 6g/16.0 inch wqxga 165hz	acer	I7	16	1	1024	1	0	16.0	1920x1080	59989000
+laptop acer gaming predator triton 500se (pt516-51s-71rw) (nh.qaksv.001) (i7 11800h/16gb ram/1tb ssd/rtx 3080 8g/16.0 inch wqxga 165hz 100%srgb/win10/xám) (2021)	acer	I7	16	1	1024	1	0	16.0	1920x1080	84989000
 laptop dell gaming g15 5515 (p105f004agr) (r5 5600h/8gb ram/ 256gb ssd/rtx3050 4g/15.6 inch fhd 120hz/win10/xám) (2021)	dell	R5	8	1	256	1	0	15.6	1920x1080	24839000
-laptop dell gaming g15 5511 (p105f006agr) (i7 11800h/8gb ram/ 512gb ssd/rtx3050 4g/15.6 inch fhd 120hz/win11/officehs21/xám) (2021)	dell	I7	8	1	512	1	0	15.6	1920x1080	16994500
+laptop dell gaming g15 5511 (p105f006agr) (i7 11800h/8gb ram/ 512gb ssd/rtx3050 4g/15.6 inch fhd 120hz/win11/officehs21/xám) (2021)	dell	I7	8	1	512	1	0	15.6	1920x1080	33989000
 laptop hp 250 g8 (389x8pa) (i3 1005g1/4gb ram/256gb ssd/15.6 hd/win10/xám)	hp	I3	4	1	256	0	0	15.6	1920x1080	14249000
 laptop lenovo yoga slim 7 pro 14ach5 (82n5001jvn) (r7 5800h/16gb ram/1tb ssd/14 oled/win/bạc)	lenovo	R7	16	1	1024	0	0	14.0	2880x1800	29749000
 laptop lenovo ideapad slim 5 pro 16ach6 (82l50095vn) (r5 5600u/8gb ram/512gb ssd/16 wqxga 120hz/gtx 1650 4gb/win10/xám)	lenovo	R5	8	1	512	1	4	16	1920x1080	24749000
@@ -1139,22 +1139,22 @@ laptop acer gaming nitro 5 eagle an515-57-54mv (nh.qensv.003) (i5 11400h/8gb ram
 laptop lenovo thinkpad x1 gen 9 (20xw009uvn) (i7 1165g7/8gb ram/512gb ssd/14 wuxga/win pro/đen)	lenovo	I7	16	1	512	0	0	14	1920x1080	48999000
 laptop lenovo thinkpad x1 gen 9 (20xw009vvn) (i7 1165g7/16gb ram/512gb ssd/14 wuxga/win pro/đen)	lenovo	I7	16	1	512	0	0	14	1920x1080	50949000
 laptop hp 240 g8 (3d0a4pa) (i5 1135g7/4gb ram/512gb ssd/14 fhd/win/bạc)	hp	I5	4	1	512	0	0	14.0	1920x1080	18749000
-laptop dell alienware gaming m15 r6 (p109f001abl) (i7 11800h/32gb ram/1tb ssd/rtx3060 6g/156 inch fhd 240hz/win10+office/xám đậm) (2021)	dell	I7	32	1	1024	1	0	15.6	1920x1080	31499500
+laptop dell alienware gaming m15 r6 (p109f001abl) (i7 11800h/32gb ram/1tb ssd/rtx3060 6g/156 inch fhd 240hz/win10+office/xám đậm) (2021)	dell	I7	32	1	1024	1	0	15.6	1920x1080	62999000
 laptop asus vivobook a515ep-bq630t (i7 1165g7/8gb ram/512gb ssd/15.6 fhd/mx330 2gb/win10/bạc)	asus	I7	8	1	512	1	2	15.6	1920x1080	23549000
 laptop hp pavilion 14-dv0520tu (46l92pa) (i3 1125g4/4gb ram/256gb ssd/14 fhd/win10/bạc)	hp	I3	4	1	256	0	0	14	1920x1080	15749000
 laptop hp 14s-dq2545tu (46m23pa) (i5 1135g7/8gb ram/256gb ssd/14 hd/win10/bạc)	hp	I5	8	1	256	0	0	14	1920x1080	19249000
 laptop hp 340s g7 (224l1pa) (i3 1005g1/4gb ram/512gb ssd/14 fhd/win/xám)	hp	I3	4	1	512	0	0	14	1920x1080	14599000
 laptop dell latitude 7420 (70251597) (i7 1185g7 16gb ram/256gb ssd/14.0 inch fhd/ubuntu/xám/vỏ nhôm) (2021)	dell	I7	16	1	256	0	0	14.0	1920x1080	41494000
-laptop dell latitude 9420 (70261781) (i5 1145g7 16gb ram/512gb ssd/14.0 inch fhd+/win 10 pro/xám/vỏ nhôm) (2021)	dell	I5	16	1	512	0	0	14	1920x1080	27494500
-laptop dell latitude 9420 (70261782) (i7 1185g7 16gb ram/512gb ssd/14.0 inch fhd+/win 10 pro/xám/vỏ nhôm) (2021)	dell	I7	16	1	512	0	0	14	1920x1080	30494500
+laptop dell latitude 9420 (70261781) (i5 1145g7 16gb ram/512gb ssd/14.0 inch fhd+/win 10 pro/xám/vỏ nhôm) (2021)	dell	I5	16	1	512	0	0	14	1920x1080	54989000
+laptop dell latitude 9420 (70261782) (i7 1185g7 16gb ram/512gb ssd/14.0 inch fhd+/win 10 pro/xám/vỏ nhôm) (2021)	dell	I7	16	1	512	0	0	14	1920x1080	60989000
 laptop asus gaming tuf fx516pc-hn002t (i5 11300h/8gb ram/512gb ssd/15.6 fhd 144hz/rtx 3050 4gb/win10/xám)	asus	I5	8	1	512	1	4	15.6	1920x1080	25599000
 laptop acer gaming nitro 5 an515-57-56s5 (nh.qeksv.001) (i5 11400h/8gb ram/512gb ssd/gtx1650 4g/15.6 inch fhd 144hz/win 11/đen) (2021)	acer	I5	8	1	512	1	0	15.6	1920x1080	23999000
-laptop acer gaming nitro 5 an515-45-r86d (nh.qbcsv.005) (r7 5800h/8gb ram/512gb ssd/rtx3060 6g/15.6 inch fhd 144hz/win 11/đen) (2021)	acer	R7	8	1	512	1	0	15.6	1920x1080	16349500
-laptop acer aspire a315-58g-50s4 (nx.adusv.001) (i5 1135g7/8gb ram/512gb ssd/mx350 2g/15.6 inch fhd/ win 10/bạc) (2021)	acer	I5	8	1	512	1	0	15.6	1920x1080	9249500
+laptop acer gaming nitro 5 an515-45-r86d (nh.qbcsv.005) (r7 5800h/8gb ram/512gb ssd/rtx3060 6g/15.6 inch fhd 144hz/win 11/đen) (2021)	acer	R7	8	1	512	1	0	15.6	1920x1080	32699000
+laptop acer aspire a315-58g-50s4 (nx.adusv.001) (i5 1135g7/8gb ram/512gb ssd/mx350 2g/15.6 inch fhd/ win 10/bạc) (2021)	acer	I5	8	1	512	1	0	15.6	1920x1080	18499000
 laptop dell latitude 5420 (l5420i714df) (i7 1165g7 8gb ram/256gb ssd/14.0 inch fhd/ubuntu/xám) (2021)	dell	I7	8	1	256	0	0	14.0	1920x1080	30489000
 laptop dell latitude 5420 (l5420i714wp) (i7 1165g7 8gb ram/256gb ssd/14.0 inch fhd/win10 pro/xám) (2021)	dell	I7	8	1	256	0	0	14.0	1920x1080	34489000
-laptop  acer travelmate b3 tmb311-31-p49d (nx.vnfsv.005) (pentium n5030/4gb ram/256gb ssd/11.6 inch/win 11/đen) (2021)		N5030	4	1	256	0	0	11.6	1920x1080	5249500
-laptop  acer travelmate b3 tmb311-31-c2hb (nx.vnfsv.006) (celeron n4020/4gb ram/128gb ssd/11.6 inch/win 11/đen) (2021)		N4020	4	1	128	0	0	11.6	1920x1080	4994500
+laptop  acer travelmate b3 tmb311-31-p49d (nx.vnfsv.005) (pentium n5030/4gb ram/256gb ssd/11.6 inch/win 11/đen) (2021)		N5030	4	1	256	0	0	11.6	1920x1080	10499000
+laptop  acer travelmate b3 tmb311-31-c2hb (nx.vnfsv.006) (celeron n4020/4gb ram/128gb ssd/11.6 inch/win 11/đen) (2021)		N4020	4	1	128	0	0	11.6	1920x1080	9989000
 laptop lenovo legion 5-15ach6a (82nw003bvn) (r7 5800h/8gb ram/512gb ssd/15.6 fhd 165hz /rx6600m 8g/win/xanh)	lenovo	R7	8	1	512	0	0	15.6	1920x1080	35749000
 laptop lenovo legion 5-15ach6a (82nw003cvn) (r5 5600h/8gb ram/512gb ssd/15.6 fhd 165hz/rx6600m 8g/win/xanh)	lenovo	R5	8	1	512	0	0	15.6	1920x1080	33749000
 laptop dell inspiron 3501 (70253897) (i5 1135g7 8gbram/512gb ssd/mx330 2g/15.6 inch fhd/win10+office hs19/đen) (2021)	dell	I5	8	1	512	1	0	15.6	1920x1080	22139000

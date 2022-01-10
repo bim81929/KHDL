@@ -91,7 +91,10 @@ def process_prices(Old_Price, New_Price):
             new = int(New_Price[i])
         except:
             new = 0
-        res.append(int((old + new) / 2))
+        if old != 0 and new != 0:
+            res.append(int((old + new) / 2))
+        else:
+            res.append((old + new))
     return res
 
 
@@ -132,7 +135,7 @@ if __name__ == '__main__':
     total_ram = process_ram(RAM)
     totol_cpu = process_cpu(CPU)
 
-    # df = pd.DataFrame({'Name': Name, 'Producer': producer, 'CPU': totol_cpu, 'Ram': total_ram, 'Type disk': type_disk,
-    #                    'Capacity': capacity_disk, 'Type GPU': type_gpu, 'VRAM': vram, "Size Display": size_dis,
-    #                    "Relu Display": relu_dis, 'Price': total_price})
-    # df.to_csv('final_data.csv', encoding='utf8', sep='\t', index=False)
+    df = pd.DataFrame({'Name': Name, 'Producer': producer, 'CPU': totol_cpu, 'Ram': total_ram, 'Type disk': type_disk,
+                       'Capacity': capacity_disk, 'Type GPU': type_gpu, 'VRAM': vram, "Size Display": size_dis,
+                       "Relu Display": relu_dis, 'Price': total_price})
+    df.to_csv('final_data.csv', encoding='utf8', sep='\t', index=False)
