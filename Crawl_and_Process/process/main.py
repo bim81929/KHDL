@@ -1,5 +1,4 @@
-import pandas as pd
-import re
+from  display import *
 
 
 def no_accent_vietnamese(s):
@@ -52,7 +51,7 @@ def process_ram(RAM):
     for ram in RAM:
         ram = ram.split("GB")[0].strip().replace('*', ' x ').replace("G", "")
         try:
-            ram =  ram.replace("G(G", "")
+            ram = ram.replace("G(", "")
         except:
             pass
         if ' x ' in ram:
@@ -69,7 +68,7 @@ def process_disk(DISK):
     for disk in DISK:
         temp_disk = str(disk).upper()
         temp_disk = re.sub("M.2 ", "", temp_disk)
-        if 'SSD' in str(disk):
+        if 'SSD' in str(disk) or 'NVMe' in str(disk):
             type_disk.append(1)
         else:
             type_disk.append(0)
@@ -112,11 +111,26 @@ def convert_disk(type_disk, capacity_disk):
 
 
 if __name__ == '__main__':
+    process_display()
     data_display = pd.read_csv('display.csv', encoding='utf8', sep='\t')
     size_dis = [x for x in data_display['Size']]
     relu_dis = [x for x in data_display['Relu']]
     type_gpu = [x for x in data_display["Type GPU"]]
     vram = [x for x in data_display['VRAM']]
+    log_relu = []
+    for x in relu_dis:
+        if ' ' in x:
+            log_relu.append(x)
+        if 'mm' in x or 'hz' in x or 'wva' in x or 'x' not in x:
+            log_relu.append(x)
+    print(log_relu)
+    log_vram = []
+    for r in vram:
+        try:
+            temp = float(r)
+        except:
+            log_vram.append(r)
+    print(log_vram)
 
     data = pd.read_csv('1.csv', encoding='utf8', sep='\t')
 
@@ -128,7 +142,22 @@ if __name__ == '__main__':
     DISPLAY = [x for x in data['DISPLAY']]
     Old_Price = [x for x in data['Old Price']]
     New_Price = [x for x in data['New Price']]
-
+    hz = []
+    for scr in DISPLAY:
+        if 'hz' not in scr.lower():
+            hz.append(60)
+        else:
+            try:
+                temp = scr.split(" ")
+                for t in temp:
+                    if 'hz' in t.lower():
+                        hezt = re.sub('hz', '', t.lower())
+                        hezt = re.sub(',', '', hezt)
+                        hz.append(int(hezt))
+                        break
+            except:
+                hz.append(60)
+    print(hz)
     producer = [process_name(x).split(" ")[1] for x in Name]
     total_price = process_prices(Old_Price, New_Price)
     type_disk, capacity_disk = process_disk(DISK)
@@ -136,6 +165,12 @@ if __name__ == '__main__':
     totol_cpu = process_cpu(CPU)
 
     df = pd.DataFrame({'Name': Name, 'Producer': producer, 'CPU': totol_cpu, 'Ram': total_ram, 'Type disk': type_disk,
-                       'Capacity': capacity_disk, 'Type GPU': type_gpu, 'VRAM': vram, "Size Display": size_dis,
+                       'Capacity': capacity_disk, 'Type GPU': type_gpu, 'VRAM': vram, "Size Display": size_dis, "HZ" : hz,
                        "Relu Display": relu_dis, 'Price': total_price})
+    df = df.loc[df["Price"] != 0]
+    for log in log_relu:
+        df = df.loc[df["Relu Display"] != log]
+    for log in log_vram:
+        df = df.loc[df["VRAM"] != log]
+    df = df.loc[df["Size Display"] != "Nvidia"]
     df.to_csv('final_data.csv', encoding='utf8', sep='\t', index=False)

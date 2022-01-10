@@ -3,8 +3,6 @@ import urllib.request
 
 import pandas as pd
 from bs4 import BeautifulSoup
-from time import sleep
-from traceback import print_exc
 
 
 def process_price(text):
@@ -16,12 +14,8 @@ def process_price(text):
 
 
 def crawl_single_product(url, rv, time):
-    # with open("html", "r") as f:
-    # soup = BeautifulSoup(f.read(), 'html.parser')
     with urllib.request.urlopen(url, timeout=time) as site:
         soup = BeautifulSoup(site.read().decode("utf8"), 'html.parser')
-        # with open("html", "w") as f:
-        # f.write(soup.prettify())
         _ = {}
         _['Name'] = soup.find("div", class_="product_detail-title") \
             .find("h1").string.strip()

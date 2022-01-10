@@ -4,7 +4,7 @@ import pandas as pd
 def concat_df(files):
     list_data_frame = []
     for file in files:
-        d = pd.read_csv(file, encoding="utf8", sep="\t")
+        d = pd.read_csv('../crawl/' + file, encoding="utf8", sep="\t")
         try:
             d = d.drop(labels=["Producer"], axis=1)
         except:
