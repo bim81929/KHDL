@@ -3,7 +3,7 @@
 - Nguyễn Đức Nguyên 20183600
 - Trần Đức Thọ 20183634
 - Trần Văn Điệp
-- ...
+- Vũ Tấn Khang 20183561
 
 ## Tổng quan về đề tài
 - Tên đề tài: Dự đoán giá laptop bằng ....
